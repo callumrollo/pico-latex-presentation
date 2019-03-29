@@ -3,7 +3,7 @@
 \usetheme[headheight=1cm,footheight=2cm]{boxes}
 %\usetheme{default}
 
-\usepackage[applemac]{inputenc}
+\usepackage{inputenc}
 \usepackage{default}
 \usepackage{graphicx}
 \usepackage{epsfig}
@@ -34,16 +34,13 @@
 \setbeamerfont{author}{size*={5pt}{0pt}}
 \setbeamerfont{institute}{size*={3pt}{0pt}}
 \setbeamerfont{bodytext}{size=\scriptsize}
-	
+
+
 % Title setup	
-\title{Slab Entrainment and Surge Dynamics of the \\ 2015 Valle\'e de la
-Sionne Avalanches}
-\author{Anselm K\"ohler\inst{1} (\texttt{koehler@slf.ch}) \and Jim
-McElwaine\inst{2} \and Betty
-Sovilla\inst{1}}
-\institute{\inst{1}Institut f\"ur Schnee- und Lawinenforschung SLF, Davos Dorf,
-Switzerland
-\quad \inst{2}Department of Earth Science, Durham University, UK}
+\title{Absolute Velocity Estimates from a Glider Mounted ADCP}
+\author{Callum Rollo\inst{1} (\texttt{c.rollo@uea.ac.uk}) \and Karen J Heywood\inst{1} \and Rob Hall\inst{1} \and Alex Phillips\inst{2}}
+\institute{\inst{1}University of East Anglia, Norwich, UK
+\quad \inst{2}Marine Autonomous Robotics Systems group, Southampton UK}
 % add title in headbox
 \setbeamertemplate{headline}
 {\leavevmode
@@ -51,7 +48,7 @@ Switzerland
   % LOGO
   \begin{columns}[t, totalwidth=\textwidth]
   \begin{column}[c]{1.05cm}
-     \includegraphics[width=1cm]{figure/slf}
+     \includegraphics[width=1cm]{figure/PIC1.jpg}
   \end{column}
   % TITLE
    \begin{column}[c]{10.6cm}
@@ -63,7 +60,7 @@ Switzerland
   % PICUTRE
   \begin{column}[c]{1.15cm}
     \hspace{0.005cm}
-    \includegraphics[width=1cm]{figure/anselm}
+    \includegraphics[width=1cm]{figure/PIC1.jpg}
   \end{column}
   \end{columns}
   {\color{slfcolor}\hrule height 1pt\vspace{0.1cm}}
@@ -145,34 +142,12 @@ Switzerland
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}\label{\secvariable}
 \usebeamerfont{bodytext}
-\justifying
-On 3 February 2015 five avalanches were artificially released at the Valle\'e de
-la Sionne test site in the west of Switzerland. The dense parts of the
-avalanches were tracked by the GEODAR Mark 2 radar system at \SI{111}{\hertz}
-framerate with \SI{0.75}{\metre} down slope resolution.
+%\justifying
+\begin{center}
 
-\vspace{0.2cm}
-The data show that these avalanches contain several internal surges and
-that the avalanche front is repeatedly overtaken by some of these surges. We
-show that these surges exist on different scales. While the major surges
-originate
-from secondary triggered slab releases and occur all over the avalanche, the
-minor surges are only found in the energetic part of a well developed powder
-snow avalanche. The mass of the major surges can be as huge as the initial
-released mass, this has a dramatic effect on the mass distribution inside the
-avalanche and effects the front velocity and run out. Furthermore, the secondary
-released snow slabs are an important entrainment mechanism and up to
-\SI{50}{\percent} of the mass entered the avalanche via slab entrainment.
 
-\vspace{0.2cm}
-We analyse the dynamics of the leading edge and the minor surges in more detail
-using a simple one dimensional model with frictional resistance and quadratic
-velocity dependent drag. These models fit the data well for the start and middle
-of avalanche but cannot capture the slowing and overtaking of the minor surges.
-We find much higher friction coefficients are needed to describe the surging. We propose
-that this data can only be explained by changes in the snow surface. These
-effects are not included in current models yet, but the data presented here will
-enable the development and verification of such models.
+\includegraphics[trim=0 0 0 0,clip,width=1.2\textwidth,keepaspectratio]{figure/splash.jpg}\\
+\end{center}
 
 \end{frame}
 
@@ -199,9 +174,9 @@ line features is the approach velocity.
     \begin{column}[c]{0.5\textwidth}
      
 \includegraphics[width=1\textwidth,height=0.5\textheight,keepaspectratio]{%
-figure/vdls_overview}\\
+figure/PIC1.jpg}\\
 \includegraphics[width=1\textwidth,height=0.5\textheight,keepaspectratio]{%
-figure/2015-02-03-11-45-30_inkscape}
+figure/PIC1.jpg}
     \end{column}
   \end{columns}
 
@@ -215,7 +190,7 @@ figure/2015-02-03-11-45-30_inkscape}
 \begin{center}
   \vspace{-0.5cm}
  \includegraphics[width=1\textwidth,height=0.8\textheight,keepaspectratio]{%
-  figure/2015-02-03-11-45-30-fmcw-b_0-75m-inkscape}
+  figure/PIC1.jpg}
 \end{center}
   \vspace{-0.5cm}
   \textbf{a)} GEODAR show many approaching line features\\
@@ -230,7 +205,7 @@ figure/2015-02-03-11-45-30_inkscape}
 \begin{frame}\label{\secvariable} %%Eine Folie
 \begin{center}
 \includegraphics[width=1\textwidth,height=0.8\textheight,keepaspectratio]{%
-figure/2015-02-03-11-54-44_inkscape}
+figure/PIC1.jpg}
 \end{center}
 \begin{columns}
 \begin{column}[t]{1.1\textwidth}
@@ -245,7 +220,7 @@ figure/2015-02-03-11-54-44_inkscape}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}\label{\secvariable}
 \includegraphics[width=1\textwidth,height=0.8\textheight,keepaspectratio]{%
-figure/wave_generation}
+figure/PIC1.jpg}
 \begin{columns}
 \begin{column}[t]{1.1\textwidth}
  Video and laserscan data reveal the occurrence of slab releases.\\
@@ -306,7 +281,7 @@ identified slabs.
 \begin{frame}\label{\secvariable} %%Eine Folie
 \begin{center}
 \includegraphics[width=1\textwidth,height=0.7\textheight,keepaspectratio]{%
-figure/front_protection}
+figure/PIC1.jpg}
 \end{center}
 \vspace{-0.2cm}
 \begin{columns}
@@ -328,9 +303,9 @@ $\quad$ decelerate as soon they overtake the leading edge.
 \begin{frame}\label{\secvariable}
 \hspace{-0.6cm}
 \includegraphics[width=0.6\textwidth,height=0.7\textheight,keepaspectratio]{%
-figure/models_all}
+figure/PIC1.jpg}
 \includegraphics[width=1\textwidth,height=0.46\textheight,keepaspectratio]{%
-figure/mu_eff_vs_v}
+figure/PIC1.jpg}
 
 \begin{columns}
 \begin{column}[t]{1.1\textwidth}
