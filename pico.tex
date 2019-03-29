@@ -13,11 +13,11 @@
 \usepackage{ragged2e}
 
 \setbeamertemplate{navigation symbols}{}%remove navigation symbols
-%\setbeamersize{text margin left=0pt,text margin right=0pt}
+\setbeamersize{text margin left=0pt,text margin right=0pt} % text and figures flush to edges
 
 % some colors
 \definecolor{grau}{gray}{.5}
-\definecolor{slfcolor}{rgb}{0,0.6274,0.8353}
+\definecolor{slfcolor}{rgb}{0,0.5,0.8353}
 \definecolor{wslcolor}{rgb}{0,0.4,0.4}
 
 % setup links
@@ -48,7 +48,7 @@
   % LOGO
   \begin{columns}[t, totalwidth=\textwidth]
   \begin{column}[c]{1.05cm}
-     \includegraphics[width=1cm]{figure/PIC1.jpg}
+     \includegraphics[height=1.05cm]{figure/graphic_egu_photo_yes.png}
   \end{column}
   % TITLE
    \begin{column}[c]{10.6cm}
@@ -58,9 +58,9 @@
    \centering \usebeamerfont{institute} \insertinstitute
   \end{column}
   % PICUTRE
-  \begin{column}[c]{1.15cm}
+  \begin{column}[c]{1.0cm}
     \hspace{0.005cm}
-    \includegraphics[width=1cm]{figure/PIC1.jpg}
+    \includegraphics[trim=100 100 100 500,clip,height=1.05cm]{figure/face.jpg}
   \end{column}
   \end{columns}
   {\color{slfcolor}\hrule height 1pt\vspace{0.1cm}}
@@ -70,7 +70,7 @@
 % setup the navigation in footbox
 % first set some button colors
 \newcommand{\buttonactive}{\setbeamercolor{button}{bg=wslcolor,fg=white}}
-\newcommand{\buttonpassive}{\setbeamercolor{button}{bg=slfcolor,fg=black}}
+\newcommand{\buttonpassive}{\setbeamercolor{button}{bg=slfcolor,fg=white}}
 % now set up that the one active one gets the new color.
 \newcommand{\secvariable}{nothing}
 % therefore we write before each section (well, everything which should be part of the navi bar)
@@ -83,7 +83,7 @@
     \buttonactive}{%
     \buttonpassive}
  }
-% ... here we start to set up the navibar. each entry is calling first the function \tocbuttoncolor with the argument which should be tested for beeing active. if active, then change color. afterwards the button is draw. so to change that, you need to change the argument in \toc..color, the first in \hyperlink and before each frames definition... A bit messed up, but works...
+% ... here we start to set up the navibar. each entry is calling first the function \tocbuttoncolor with the argument which should be tested for being active. if active, then change color. afterwards the button is draw. so to change that, you need to change the argument in \toc..color, the first in \hyperlink and before each frames definition... A bit messed up, but works...
 \newlength{\buttonspacingfootline}
 \setlength{\buttonspacingfootline}{-0.2cm}
 \setbeamertemplate{footline}
@@ -93,11 +93,11 @@
   \vspace{0.05cm}
   % set up the buttons in an mbox
   \centering \mbox{
-    \tocbuttoncolor{abstract}
-    \hyperlink{abstract}{\beamerbutton{Abstract}}
-    \tocbuttoncolor{radar}
+    \tocbuttoncolor{intro}
+    \hyperlink{intro}{\beamerbutton{Introduction}}
+    \tocbuttoncolor{trial_shear}
     \hspace{\buttonspacingfootline}
-      \hyperlink{radar}{\beamerbutton{GEODAR}}
+      \hyperlink{trial_shear}{\beamerbutton{Oban shear}}
     \tocbuttoncolor{line}
     \hspace{\buttonspacingfootline}
       \hyperlink{line}{\beamerbutton{Line Features}}
@@ -134,52 +134,37 @@
 }
 
 
+
 \begin{document}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\mysection{abstract}
+\mysection{intro}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}\label{\secvariable}
 \usebeamerfont{bodytext}
-%\justifying
-\begin{center}
+\justifying
 
+\vspace*{-1.2mm}    
+%\hspace*{-\beamerleftmargin}
+%\hspace*{-1.05cm}
+\includegraphics[trim=0 0 100 5,clip,width=\paperwidth]{figure/splash.jpg}
 
-\includegraphics[trim=0 0 0 0,clip,width=1.2\textwidth,keepaspectratio]{figure/splash.jpg}\\
-\end{center}
+%\includegraphics[trim=0 0 0 0,clip,width=1.2\textwidth,keepaspectratio]{figure/splash.jpg}\\
+
 
 \end{frame}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\mysection{radar}
+\mysection{trial_shear}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}\label{\secvariable}
-  \begin{columns}[t]
-    \begin{column}[c]{0.5\textwidth}
-      GEODAR (FMCW radar) is installed in the valley bottom and observes the mountain to track the dense flowing core below the powder cloud.
+\includegraphics[trim=70 20 80 80,clip,width=\paperwidth]{figure/95_qc.png}
 
-\vspace{0.2cm}
-Around \SI{100}{} radar frames are captured every second
-with a down-slope resolution of \SI{1}{\metre}.
-
-    \vspace{0.2cm}
-    The avalanche front is the change from light to red colors. 
-    
-    \vspace{0.2cm}
-    The avalanche
-approaches towards the radar (decreasing range) and the gradient of the
-line features is the approach velocity.
-    \end{column}
-    \begin{column}[c]{0.5\textwidth}
-     
-\includegraphics[width=1\textwidth,height=0.5\textheight,keepaspectratio]{%
-figure/PIC1.jpg}\\
-\includegraphics[width=1\textwidth,height=0.5\textheight,keepaspectratio]{%
-figure/PIC1.jpg}
-    \end{column}
-  \end{columns}
-
+\begin{itemize}
+\item Vertical shear of horizontal velocity coherent between ensembles
+\item Strong along loch shear across pycnocline
+\end{itemize}
   
 \end{frame}
 
@@ -345,10 +330,8 @@ and entrainment of the soft, upper snow layers. Numerical models not yet account
   \end{itemize}
 
   \usebeamerfont{bodytext}
-  K\"ohler, A., J. N. McElwaine, B. Sovilla, M. Ash, P. Brennan (in Review),
-Surge dynamics of the 3 February 2015 avalanches in Valle\'e de la Sionne,
-\textit{J. Geophys. Res.} 
-  
+Original template by Anselm K\"ohler\\ \texttt{https://github.com/snowtechblog/pico-latex-presentation}
+
 \end{frame}
 
 
