@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.9.17)  29 MAR 2019 14:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.9.17)  3 APR 2019 16:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1051,20 +1051,20 @@ Package hyperref Info: Option `colorlinks' set `false' on input line 30.
  (./pico.aux)
 \openout1 = `pico.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1130,7 +1130,7 @@ e
 ))
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box79
-Package hyperref Info: Link coloring OFF on input line 140.
+Package hyperref Info: Link coloring OFF on input line 129.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1140,66 +1140,66 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count278
 )
-LaTeX Info: Redefining \ref on input line 140.
-LaTeX Info: Redefining \pageref on input line 140.
-LaTeX Info: Redefining \nameref on input line 140.
+LaTeX Info: Redefining \ref on input line 129.
+LaTeX Info: Redefining \pageref on input line 129.
+LaTeX Info: Redefining \nameref on input line 129.
 
 (./pico.out) (./pico.out)
 \@outlinefile=\write5
 \openout5 = `pico.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 140.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 129.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 140.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 129.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 140.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 140.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 129.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 129.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 140.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 129.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 140.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 140.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 129.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 129.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 140.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 129.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 140.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 140.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 129.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 129.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 140.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 129.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 140.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 140.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 129.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 129.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 140.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 129.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 140.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 129.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 140.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 129.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 140.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 129.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 140.
+(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 129.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 140.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 129.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 140.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 129.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 140.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 129.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 140.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 140.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 129.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 129.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
 (Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 1
-40.
+29.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/cmss/bx/it --> OT1/mathkerncmss/m/sl on input line 
-140.
+129.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 140.
+ut line 129.
 
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/translator/dicts/translator-bas
 ic-dictionary/translator-basic-dictionary-English.dict
@@ -1225,417 +1225,418 @@ Dictionary: translator-numbers-dictionary, Language: English
 orem-dictionary/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \includegraphics on input line 140.
+LaTeX Info: Redefining \includegraphics on input line 129.
 
 (/usr/share/texlive/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
 File: siunitx-abbreviations.cfg 2016/03/01 v2.6q siunitx: Abbreviated units
 )
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 140.
+LaTeX Info: Redefining \selectfont on input line 129.
  (./pico.nav)
-Package keyval Info: width undefined on input line 140.
+Package keyval Info: width undefined on input line 129.
 
-<figure/CreativeCommons_Attribution_License.pdf, id=22, 200.75pt x 70.2625pt>
+<figure/CreativeCommons_Attribution_License.pdf, id=19, 200.75pt x 70.2625pt>
 File: figure/CreativeCommons_Attribution_License.pdf Graphic file (type pdf)
 
 <use figure/CreativeCommons_Attribution_License.pdf>
 Package pdftex.def Info: figure/CreativeCommons_Attribution_License.pdf used on
- input line 140.
+ input line 129.
 (pdftex.def)             Requested size: 27.95776pt x 9.7861pt.
+Package keyval Info: width undefined on input line 129.
 
-Overfull \hbox (17.8099pt too wide) in paragraph at lines 140--140
- [][] 
- []
-
-Package keyval Info: width undefined on input line 140.
-<figure/graphic_egu_photo_yes.png, id=23, 240.9pt x 337.26pt>
+<figure/graphic_egu_photo_yes.png, id=20, 240.9pt x 337.26pt>
 File: figure/graphic_egu_photo_yes.png Graphic file (type png)
 
 <use figure/graphic_egu_photo_yes.png>
-Package pdftex.def Info: figure/graphic_egu_photo_yes.png used on input line 14
-0.
+Package pdftex.def Info: figure/graphic_egu_photo_yes.png used on input line 12
+9.
 (pdftex.def)             Requested size: 21.33821pt x 29.87547pt.
-LaTeX Font Info:    Try loading font information for U+msa on input line 140.
+LaTeX Font Info:    Try loading font information for U+msa on input line 129.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 140.
+LaTeX Font Info:    Try loading font information for U+msb on input line 129.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 140.
+line 129.
 
 (/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
 )
 LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <5> not available
-(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 140.
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 129.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/bx/n' in size <3> not available
-(Font)              size <5> substituted on input line 140.
+(Font)              size <5> substituted on input line 129.
 
-LaTeX Font Info:    Calculating math sizes for size <3> on input line 140.
+LaTeX Font Info:    Calculating math sizes for size <3> on input line 129.
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <3> not available
-(Font)              size <5> substituted on input line 140.
+(Font)              size <5> substituted on input line 129.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <2.09999> not available
-(Font)              size <5> substituted on input line 140.
+(Font)              size <5> substituted on input line 129.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <1.5> not available
-(Font)              size <5> substituted on input line 140.
+(Font)              size <5> substituted on input line 129.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <3> not available
-(Font)              size <5> substituted on input line 140.
+(Font)              size <5> substituted on input line 129.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <2.09999> not available
-(Font)              size <5> substituted on input line 140.
+(Font)              size <5> substituted on input line 129.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <1.5> not available
-(Font)              size <5> substituted on input line 140.
+(Font)              size <5> substituted on input line 129.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <3> not available
-(Font)              size <5> substituted on input line 140.
+(Font)              size <5> substituted on input line 129.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <2.09999> not available
-(Font)              size <5> substituted on input line 140.
+(Font)              size <5> substituted on input line 129.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <1.5> not available
-(Font)              size <5> substituted on input line 140.
+(Font)              size <5> substituted on input line 129.
 
-<figure/face.jpg, id=24, 1951.29pt x 2601.72pt>
-File: figure/face.jpg Graphic file (type jpg)
- <use figure/face.jpg>
-Package pdftex.def Info: figure/face.jpg used on input line 140.
-(pdftex.def)             Requested size: 26.15012pt x 29.87547pt.
+<figure/mug.jpg, id=21, 960.58875pt x 1253.68375pt>
+File: figure/mug.jpg Graphic file (type jpg)
+ <use figure/mug.jpg>
+Package pdftex.def Info: figure/mug.jpg used on input line 129.
+(pdftex.def)             Requested size: 22.88017pt x 29.87547pt.
 \c__siunitx_mathsf_int=\count279
 \c__siunitx_mathtt_int=\count280
 
-<figure/splash.jpg, id=26, 796.47563pt x 447.92343pt>
+<figure/splash.jpg, id=23, 796.47563pt x 447.92343pt>
 File: figure/splash.jpg Graphic file (type jpg)
  <use figure/splash.jpg>
-Package pdftex.def Info: figure/splash.jpg used on input line 158.
+Package pdftex.def Info: figure/splash.jpg used on input line 144.
 (pdftex.def)             Requested size: 364.19536pt x 231.7242pt.
 
-Overfull \vbox (7.5157pt too high) detected at line 158
+Overfull \vbox (7.5157pt too high) detected at line 144
  []
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
-(Font)              size <5> substituted on input line 158.
+(Font)              size <5> substituted on input line 144.
 
-Package keyval Info: width undefined on input line 158.
+Package keyval Info: width undefined on input line 144.
 File: figure/graphic_egu_photo_yes.png Graphic file (type png)
 <use figure/graphic_egu_photo_yes.png>
-Package pdftex.def Info: figure/graphic_egu_photo_yes.png used on input line 15
-8.
+Package pdftex.def Info: figure/graphic_egu_photo_yes.png used on input line 14
+4.
 (pdftex.def)             Requested size: 21.33821pt x 29.87547pt.
 
 
 LaTeX Font Warning: Font shape `OT1/cmtt/m/n' in size <3> not available
-(Font)              size <5> substituted on input line 158.
+(Font)              size <5> substituted on input line 144.
 
 
 LaTeX Font Warning: Font shape `OT1/cmtt/m/n' in size <2.09999> not available
-(Font)              size <5> substituted on input line 158.
+(Font)              size <5> substituted on input line 144.
 
 
 LaTeX Font Warning: Font shape `OT1/cmtt/m/n' in size <1.5> not available
-(Font)              size <5> substituted on input line 158.
+(Font)              size <5> substituted on input line 144.
 
-File: figure/face.jpg Graphic file (type jpg)
-<use figure/face.jpg>
-Package pdftex.def Info: figure/face.jpg used on input line 158.
-(pdftex.def)             Requested size: 26.15012pt x 29.87547pt.
-Package keyval Info: width undefined on input line 158.
+File: figure/mug.jpg Graphic file (type jpg)
+<use figure/mug.jpg>
+Package pdftex.def Info: figure/mug.jpg used on input line 144.
+(pdftex.def)             Requested size: 22.88017pt x 29.87547pt.
+Package keyval Info: width undefined on input line 144.
 File: figure/CreativeCommons_Attribution_License.pdf Graphic file (type pdf)
  <use figure/CreativeCommons_Attribution_License.pdf>
 Package pdftex.def Info: figure/CreativeCommons_Attribution_License.pdf used on
- input line 158.
+ input line 144.
 (pdftex.def)             Requested size: 25.3418pt x 8.87027pt.
-
-Overfull \hbox (15.19394pt too wide) has occurred while \output is active
- [][] 
- []
 
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
- <./figure/face.jpg> <./figure/splash.jpg> <./figure/graphic_egu_photo_yes.png>
- <./figure/CreativeCommons_Attribution_License.pdf>] <figure/95_qc.png, id=68, 
-1386.1386pt x 691.6239pt>
+ <./figure/mug.jpg> <./figure/splash.jpg> <./figure/graphic_egu_photo_yes.png> 
+<./figure/CreativeCommons_Attribution_License.pdf>] <figure/95_qc.png, id=59, 1
+386.1386pt x 691.6239pt>
 File: figure/95_qc.png Graphic file (type png)
 
 <use figure/95_qc.png>
-Package pdftex.def Info: figure/95_qc.png used on input line 171.
+Package pdftex.def Info: figure/95_qc.png used on input line 157.
 (pdftex.def)             Requested size: 364.19536pt x 174.27249pt.
-Package keyval Info: width undefined on input line 171.
+Package keyval Info: width undefined on input line 157.
 File: figure/graphic_egu_photo_yes.png Graphic file (type png)
  <use figure/graphic_egu_photo_yes.png>
-Package pdftex.def Info: figure/graphic_egu_photo_yes.png used on input line 17
-1.
+Package pdftex.def Info: figure/graphic_egu_photo_yes.png used on input line 15
+7.
 (pdftex.def)             Requested size: 21.33821pt x 29.87547pt.
-File: figure/face.jpg Graphic file (type jpg)
+File: figure/mug.jpg Graphic file (type jpg)
 
-<use figure/face.jpg>
-Package pdftex.def Info: figure/face.jpg used on input line 171.
-(pdftex.def)             Requested size: 26.15012pt x 29.87547pt.
-Package keyval Info: width undefined on input line 171.
+<use figure/mug.jpg>
+Package pdftex.def Info: figure/mug.jpg used on input line 157.
+(pdftex.def)             Requested size: 22.88017pt x 29.87547pt.
+Package keyval Info: width undefined on input line 157.
 File: figure/CreativeCommons_Attribution_License.pdf Graphic file (type pdf)
  <use figure/CreativeCommons_Attribution_License.pdf>
 Package pdftex.def Info: figure/CreativeCommons_Attribution_License.pdf used on
- input line 171.
+ input line 157.
 (pdftex.def)             Requested size: 25.3418pt x 8.87027pt.
-
-Overfull \hbox (15.19394pt too wide) has occurred while \output is active
- [][] 
- []
 
 [2
 
- <./figure/95_qc.png>] <figure/PIC1.jpg, id=91, 115.02127pt x 115.02127pt>
-File: figure/PIC1.jpg Graphic file (type jpg)
+ <./figure/95_qc.png>] <figure/sawtooth.png, id=79, 722.7pt x 578.16pt>
+File: figure/sawtooth.png Graphic file (type png)
 
-<use figure/PIC1.jpg>
-Package pdftex.def Info: figure/PIC1.jpg used on input line 187.
-(pdftex.def)             Requested size: 177.44391pt x 177.44391pt.
-Package keyval Info: width undefined on input line 187.
+<use figure/sawtooth.png>
+Package pdftex.def Info: figure/sawtooth.png used on input line 175.
+(pdftex.def)             Requested size: 291.35739pt x 212.85284pt.
+
+Overfull \vbox (1.57811pt too high) detected at line 175
+ []
+
+Package keyval Info: width undefined on input line 175.
+File: figure/graphic_egu_photo_yes.png Graphic file (type png)
+<use figure/graphic_egu_photo_yes.png>
+Package pdftex.def Info: figure/graphic_egu_photo_yes.png used on input line 17
+5.
+(pdftex.def)             Requested size: 21.33821pt x 29.87547pt.
+File: figure/mug.jpg Graphic file (type jpg)
+ <use figure/mug.jpg>
+Package pdftex.def Info: figure/mug.jpg used on input line 175.
+(pdftex.def)             Requested size: 22.88017pt x 29.87547pt.
+Package keyval Info: width undefined on input line 175.
+File: figure/CreativeCommons_Attribution_License.pdf Graphic file (type pdf)
+
+<use figure/CreativeCommons_Attribution_License.pdf>
+Package pdftex.def Info: figure/CreativeCommons_Attribution_License.pdf used on
+ input line 175.
+(pdftex.def)             Requested size: 25.3418pt x 8.87027pt.
+ [3
+
+ <./figure/sawtooth.png>] <figure/diveclimb_vel9.png, id=97, 1156.32pt x 691.62
+39pt>
+File: figure/diveclimb_vel9.png Graphic file (type png)
+
+<use figure/diveclimb_vel9.png>
+Package pdftex.def Info: figure/diveclimb_vel9.png used on input line 193.
+(pdftex.def)             Requested size: 364.19536pt x 202.02414pt.
+Package keyval Info: width undefined on input line 193.
 File: figure/graphic_egu_photo_yes.png Graphic file (type png)
  <use figure/graphic_egu_photo_yes.png>
-Package pdftex.def Info: figure/graphic_egu_photo_yes.png used on input line 18
-7.
+Package pdftex.def Info: figure/graphic_egu_photo_yes.png used on input line 19
+3.
 (pdftex.def)             Requested size: 21.33821pt x 29.87547pt.
-File: figure/face.jpg Graphic file (type jpg)
+File: figure/mug.jpg Graphic file (type jpg)
 
-<use figure/face.jpg>
-Package pdftex.def Info: figure/face.jpg used on input line 187.
-(pdftex.def)             Requested size: 26.15012pt x 29.87547pt.
-Package keyval Info: width undefined on input line 187.
+<use figure/mug.jpg>
+Package pdftex.def Info: figure/mug.jpg used on input line 193.
+(pdftex.def)             Requested size: 22.88017pt x 29.87547pt.
+Package keyval Info: width undefined on input line 193.
 File: figure/CreativeCommons_Attribution_License.pdf Graphic file (type pdf)
  <use figure/CreativeCommons_Attribution_License.pdf>
 Package pdftex.def Info: figure/CreativeCommons_Attribution_License.pdf used on
- input line 187.
+ input line 193.
 (pdftex.def)             Requested size: 25.3418pt x 8.87027pt.
-
-Overfull \hbox (15.19394pt too wide) has occurred while \output is active
- [][] 
- []
-
-[3
-
- <./figure/PIC1.jpg>]
-File: figure/PIC1.jpg Graphic file (type jpg)
- <use figure/PIC1.jpg>
-Package pdftex.def Info: figure/PIC1.jpg used on input line 203.
-(pdftex.def)             Requested size: 177.44391pt x 177.44391pt.
-
-Overfull \hbox (36.42175pt too wide) detected at line 203
-[][][] [][][][][][][] 
- []
-
-Package keyval Info: width undefined on input line 203.
-File: figure/graphic_egu_photo_yes.png Graphic file (type png)
-<use figure/graphic_egu_photo_yes.png>
-Package pdftex.def Info: figure/graphic_egu_photo_yes.png used on input line 20
-3.
-(pdftex.def)             Requested size: 21.33821pt x 29.87547pt.
-File: figure/face.jpg Graphic file (type jpg)
- <use figure/face.jpg>
-Package pdftex.def Info: figure/face.jpg used on input line 203.
-(pdftex.def)             Requested size: 26.15012pt x 29.87547pt.
-Package keyval Info: width undefined on input line 203.
-File: figure/CreativeCommons_Attribution_License.pdf Graphic file (type pdf)
-
-<use figure/CreativeCommons_Attribution_License.pdf>
-Package pdftex.def Info: figure/CreativeCommons_Attribution_License.pdf used on
- input line 203.
-(pdftex.def)             Requested size: 25.3418pt x 8.87027pt.
-
-Overfull \hbox (15.19394pt too wide) has occurred while \output is active
- [][] 
- []
 
 [4
 
-]
-File: figure/PIC1.jpg Graphic file (type jpg)
- <use figure/PIC1.jpg>
-Package pdftex.def Info: figure/PIC1.jpg used on input line 220.
-(pdftex.def)             Requested size: 177.44391pt x 177.44391pt.
+ <./figure/diveclimb_vel9.png>]
+<figure/basemap.png, id=114, 1084.05pt x 691.6239pt>
+File: figure/basemap.png Graphic file (type png)
+ <use figure/basemap.png>
+Package pdftex.def Info: figure/basemap.png used on input line 211.
+(pdftex.def)             Requested size: 364.19536pt x 191.88687pt.
 
-Overfull \hbox (36.42175pt too wide) detected at line 220
-[][][] [][][][][][][] 
+Overfull \vbox (3.88597pt too high) detected at line 211
  []
 
-Package keyval Info: width undefined on input line 220.
+Package keyval Info: width undefined on input line 211.
 File: figure/graphic_egu_photo_yes.png Graphic file (type png)
 <use figure/graphic_egu_photo_yes.png>
-Package pdftex.def Info: figure/graphic_egu_photo_yes.png used on input line 22
-0.
+Package pdftex.def Info: figure/graphic_egu_photo_yes.png used on input line 21
+1.
 (pdftex.def)             Requested size: 21.33821pt x 29.87547pt.
-File: figure/face.jpg Graphic file (type jpg)
- <use figure/face.jpg>
-Package pdftex.def Info: figure/face.jpg used on input line 220.
-(pdftex.def)             Requested size: 26.15012pt x 29.87547pt.
-Package keyval Info: width undefined on input line 220.
+File: figure/mug.jpg Graphic file (type jpg)
+ <use figure/mug.jpg>
+Package pdftex.def Info: figure/mug.jpg used on input line 211.
+(pdftex.def)             Requested size: 22.88017pt x 29.87547pt.
+Package keyval Info: width undefined on input line 211.
 File: figure/CreativeCommons_Attribution_License.pdf Graphic file (type pdf)
 
 <use figure/CreativeCommons_Attribution_License.pdf>
 Package pdftex.def Info: figure/CreativeCommons_Attribution_License.pdf used on
- input line 220.
+ input line 211.
+(pdftex.def)             Requested size: 25.3418pt x 8.87027pt.
+ [5
+
+ <./figure/basemap.png>] <figure/adcp_fsc.png, id=133, 1386.1386pt x 691.6239pt
+>
+File: figure/adcp_fsc.png Graphic file (type png)
+
+<use figure/adcp_fsc.png>
+Package pdftex.def Info: figure/adcp_fsc.png used on input line 228.
+(pdftex.def)             Requested size: 364.19536pt x 165.40474pt.
+Package keyval Info: width undefined on input line 228.
+File: figure/graphic_egu_photo_yes.png Graphic file (type png)
+ <use figure/graphic_egu_photo_yes.png>
+Package pdftex.def Info: figure/graphic_egu_photo_yes.png used on input line 22
+8.
+(pdftex.def)             Requested size: 21.33821pt x 29.87547pt.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <3> not available
+(Font)              size <5> substituted on input line 228.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <2.09999> not available
+(Font)              size <5> substituted on input line 228.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <1.5> not available
+(Font)              size <5> substituted on input line 228.
+
+File: figure/mug.jpg Graphic file (type jpg)
+<use figure/mug.jpg>
+Package pdftex.def Info: figure/mug.jpg used on input line 228.
+(pdftex.def)             Requested size: 22.88017pt x 29.87547pt.
+Package keyval Info: width undefined on input line 228.
+File: figure/CreativeCommons_Attribution_License.pdf Graphic file (type pdf)
+ <use figure/CreativeCommons_Attribution_License.pdf>
+Package pdftex.def Info: figure/CreativeCommons_Attribution_License.pdf used on
+ input line 228.
 (pdftex.def)             Requested size: 25.3418pt x 8.87027pt.
 
-Overfull \hbox (15.19394pt too wide) has occurred while \output is active
- [][] 
- []
+[6
 
-[5
+ <./figure/adcp_fsc.png>]
+Package keyval Info: width undefined on input line 245.
+File: figure/graphic_egu_photo_yes.png Graphic file (type png)
+ <use figure/graphic_egu_photo_yes.png>
+Package pdftex.def Info: figure/graphic_egu_photo_yes.png used on input line 24
+5.
+(pdftex.def)             Requested size: 21.33821pt x 29.87547pt.
+File: figure/mug.jpg Graphic file (type jpg)
 
-]
-Overfull \hbox (36.42175pt too wide) detected at line 260
-[][][] [][][][][][][] 
- []
+<use figure/mug.jpg>
+Package pdftex.def Info: figure/mug.jpg used on input line 245.
+(pdftex.def)             Requested size: 22.88017pt x 29.87547pt.
+Package keyval Info: width undefined on input line 245.
+File: figure/CreativeCommons_Attribution_License.pdf Graphic file (type pdf)
+ <use figure/CreativeCommons_Attribution_License.pdf>
+Package pdftex.def Info: figure/CreativeCommons_Attribution_License.pdf used on
+ input line 245.
+(pdftex.def)             Requested size: 25.3418pt x 8.87027pt.
 
+[7
 
-Overfull \vbox (1.08313pt too high) detected at line 260
- []
+] <figure/flight_aim.png, id=175, 1386.1386pt x 691.6239pt>
+File: figure/flight_aim.png Graphic file (type png)
 
+<use figure/flight_aim.png>
+Package pdftex.def Info: figure/flight_aim.png used on input line 260.
+(pdftex.def)             Requested size: 364.19536pt x 165.89398pt.
 Package keyval Info: width undefined on input line 260.
 File: figure/graphic_egu_photo_yes.png Graphic file (type png)
-<use figure/graphic_egu_photo_yes.png>
+ <use figure/graphic_egu_photo_yes.png>
 Package pdftex.def Info: figure/graphic_egu_photo_yes.png used on input line 26
 0.
 (pdftex.def)             Requested size: 21.33821pt x 29.87547pt.
-File: figure/face.jpg Graphic file (type jpg)
- <use figure/face.jpg>
-Package pdftex.def Info: figure/face.jpg used on input line 260.
-(pdftex.def)             Requested size: 26.15012pt x 29.87547pt.
+File: figure/mug.jpg Graphic file (type jpg)
+
+<use figure/mug.jpg>
+Package pdftex.def Info: figure/mug.jpg used on input line 260.
+(pdftex.def)             Requested size: 22.88017pt x 29.87547pt.
 Package keyval Info: width undefined on input line 260.
 File: figure/CreativeCommons_Attribution_License.pdf Graphic file (type pdf)
-
-<use figure/CreativeCommons_Attribution_License.pdf>
+ <use figure/CreativeCommons_Attribution_License.pdf>
 Package pdftex.def Info: figure/CreativeCommons_Attribution_License.pdf used on
  input line 260.
 (pdftex.def)             Requested size: 25.3418pt x 8.87027pt.
 
-Overfull \hbox (15.19394pt too wide) has occurred while \output is active
- [][] 
- []
-
-[6
-
-]
-File: figure/PIC1.jpg Graphic file (type jpg)
- <use figure/PIC1.jpg>
-Package pdftex.def Info: figure/PIC1.jpg used on input line 285.
-(pdftex.def)             Requested size: 155.26144pt x 155.26144pt.
-
-Overfull \hbox (36.42175pt too wide) detected at line 285
-[][][] [][][][][][][] 
- []
-
-Package keyval Info: width undefined on input line 285.
-File: figure/graphic_egu_photo_yes.png Graphic file (type png)
-<use figure/graphic_egu_photo_yes.png>
-Package pdftex.def Info: figure/graphic_egu_photo_yes.png used on input line 28
-5.
-(pdftex.def)             Requested size: 21.33821pt x 29.87547pt.
-File: figure/face.jpg Graphic file (type jpg)
- <use figure/face.jpg>
-Package pdftex.def Info: figure/face.jpg used on input line 285.
-(pdftex.def)             Requested size: 26.15012pt x 29.87547pt.
-Package keyval Info: width undefined on input line 285.
-File: figure/CreativeCommons_Attribution_License.pdf Graphic file (type pdf)
-
-<use figure/CreativeCommons_Attribution_License.pdf>
-Package pdftex.def Info: figure/CreativeCommons_Attribution_License.pdf used on
- input line 285.
-(pdftex.def)             Requested size: 25.3418pt x 8.87027pt.
-
-Overfull \hbox (15.19394pt too wide) has occurred while \output is active
- [][] 
- []
-
-[7
-
-]
-File: figure/PIC1.jpg Graphic file (type jpg)
- <use figure/PIC1.jpg>
-Package pdftex.def Info: figure/PIC1.jpg used on input line 312.
-(pdftex.def)             Requested size: 155.26144pt x 155.26144pt.
-File: figure/PIC1.jpg Graphic file (type jpg)
- <use figure/PIC1.jpg>
-Package pdftex.def Info: figure/PIC1.jpg used on input line 312.
-(pdftex.def)             Requested size: 102.02985pt x 102.02985pt.
-
-Overfull \hbox (36.42175pt too wide) detected at line 312
-[][][] [][][][][][][] 
- []
-
-
-Overfull \vbox (37.48694pt too high) detected at line 312
- []
-
-Package keyval Info: width undefined on input line 312.
-File: figure/graphic_egu_photo_yes.png Graphic file (type png)
-<use figure/graphic_egu_photo_yes.png>
-Package pdftex.def Info: figure/graphic_egu_photo_yes.png used on input line 31
-2.
-(pdftex.def)             Requested size: 21.33821pt x 29.87547pt.
-File: figure/face.jpg Graphic file (type jpg)
- <use figure/face.jpg>
-Package pdftex.def Info: figure/face.jpg used on input line 312.
-(pdftex.def)             Requested size: 26.15012pt x 29.87547pt.
-Package keyval Info: width undefined on input line 312.
-File: figure/CreativeCommons_Attribution_License.pdf Graphic file (type pdf)
-
-<use figure/CreativeCommons_Attribution_License.pdf>
-Package pdftex.def Info: figure/CreativeCommons_Attribution_License.pdf used on
- input line 312.
-(pdftex.def)             Requested size: 25.3418pt x 8.87027pt.
-
-Overfull \hbox (15.19394pt too wide) has occurred while \output is active
- [][] 
- []
-
 [8
 
-]
-Package keyval Info: width undefined on input line 337.
+ <./figure/flight_aim.png>]
+<figure/corr.png, id=193, 1084.05pt x 691.6239pt>
+File: figure/corr.png Graphic file (type png)
+ <use figure/corr.png>
+Package pdftex.def Info: figure/corr.png used on input line 274.
+(pdftex.def)             Requested size: 291.35739pt x 169.69955pt.
+Package keyval Info: width undefined on input line 274.
 File: figure/graphic_egu_photo_yes.png Graphic file (type png)
- <use figure/graphic_egu_photo_yes.png>
-Package pdftex.def Info: figure/graphic_egu_photo_yes.png used on input line 33
-7.
+
+<use figure/graphic_egu_photo_yes.png>
+Package pdftex.def Info: figure/graphic_egu_photo_yes.png used on input line 27
+4.
 (pdftex.def)             Requested size: 21.33821pt x 29.87547pt.
-File: figure/face.jpg Graphic file (type jpg)
- <use figure/face.jpg>
-Package pdftex.def Info: figure/face.jpg used on input line 337.
-(pdftex.def)             Requested size: 26.15012pt x 29.87547pt.
-Package keyval Info: width undefined on input line 337.
+File: figure/mug.jpg Graphic file (type jpg)
+ <use figure/mug.jpg>
+Package pdftex.def Info: figure/mug.jpg used on input line 274.
+(pdftex.def)             Requested size: 22.88017pt x 29.87547pt.
+Package keyval Info: width undefined on input line 274.
 File: figure/CreativeCommons_Attribution_License.pdf Graphic file (type pdf)
 
 <use figure/CreativeCommons_Attribution_License.pdf>
 Package pdftex.def Info: figure/CreativeCommons_Attribution_License.pdf used on
- input line 337.
+ input line 274.
+(pdftex.def)             Requested size: 25.3418pt x 8.87027pt.
+ [9
+
+ <./figure/corr.png>]
+<figure/95_noqc.png, id=210, 1386.1386pt x 691.6239pt>
+File: figure/95_noqc.png Graphic file (type png)
+
+<use figure/95_noqc.png>
+Package pdftex.def Info: figure/95_noqc.png used on input line 286.
+(pdftex.def)             Requested size: 364.19536pt x 174.27249pt.
+Package keyval Info: width undefined on input line 286.
+File: figure/graphic_egu_photo_yes.png Graphic file (type png)
+ <use figure/graphic_egu_photo_yes.png>
+Package pdftex.def Info: figure/graphic_egu_photo_yes.png used on input line 28
+6.
+(pdftex.def)             Requested size: 21.33821pt x 29.87547pt.
+File: figure/mug.jpg Graphic file (type jpg)
+
+<use figure/mug.jpg>
+Package pdftex.def Info: figure/mug.jpg used on input line 286.
+(pdftex.def)             Requested size: 22.88017pt x 29.87547pt.
+Package keyval Info: width undefined on input line 286.
+File: figure/CreativeCommons_Attribution_License.pdf Graphic file (type pdf)
+ <use figure/CreativeCommons_Attribution_License.pdf>
+Package pdftex.def Info: figure/CreativeCommons_Attribution_License.pdf used on
+ input line 286.
 (pdftex.def)             Requested size: 25.3418pt x 8.87027pt.
 
-Overfull \hbox (15.19394pt too wide) has occurred while \output is active
- [][] 
- []
+[10
 
-[9
+ <./figure/95_noqc.png>]
+Package keyval Info: width undefined on input line 315.
+File: figure/graphic_egu_photo_yes.png Graphic file (type png)
+ <use figure/graphic_egu_photo_yes.png>
+Package pdftex.def Info: figure/graphic_egu_photo_yes.png used on input line 31
+5.
+(pdftex.def)             Requested size: 21.33821pt x 29.87547pt.
+File: figure/mug.jpg Graphic file (type jpg)
+
+<use figure/mug.jpg>
+Package pdftex.def Info: figure/mug.jpg used on input line 315.
+(pdftex.def)             Requested size: 22.88017pt x 29.87547pt.
+Package keyval Info: width undefined on input line 315.
+File: figure/CreativeCommons_Attribution_License.pdf Graphic file (type pdf)
+ <use figure/CreativeCommons_Attribution_License.pdf>
+Package pdftex.def Info: figure/CreativeCommons_Attribution_License.pdf used on
+ input line 315.
+(pdftex.def)             Requested size: 25.3418pt x 8.87027pt.
+
+[11
 
 ]
 \tf@nav=\write6
@@ -1647,11 +1648,11 @@ Overfull \hbox (15.19394pt too wide) has occurred while \output is active
 \tf@snm=\write8
 \openout8 = `pico.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 341.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 341.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 319.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 319.
  (./pico.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 341.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 341.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 319.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 319.
 Package rerunfilecheck Info: File `pico.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -1659,29 +1660,30 @@ Package rerunfilecheck Info: File `pico.out' has not changed.
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 3.5pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 341.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 319.
  ) 
 Here is how much of TeX's memory you used:
- 26027 strings out of 493029
- 529528 string characters out of 6136234
- 562969 words of memory out of 5000000
- 29088 multiletter control sequences out of 15000+600000
- 16752 words of font info for 63 fonts, out of 8000000 for 9000
+ 26067 strings out of 493029
+ 530155 string characters out of 6136234
+ 554873 words of memory out of 5000000
+ 29115 multiletter control sequences out of 15000+600000
+ 16408 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,21n,55p,10373b,1109s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/tex
-live/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmtt8.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
-lic/amsfonts/symbols/msam10.pfb>
-Output written on pico.pdf (9 pages, 1114787 bytes).
+ 56i,20n,55p,10373b,775s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmtt8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/symbols/msam10.pfb>
+Output written on pico.pdf (11 pages, 2061308 bytes).
 PDF statistics:
- 249 PDF objects out of 1000 (max. 8388607)
- 190 compressed objects within 2 object streams
- 28 named destinations out of 1000 (max. 500000)
- 145 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 281 PDF objects out of 1000 (max. 8388607)
+ 200 compressed objects within 2 object streams
+ 34 named destinations out of 1000 (max. 500000)
+ 229 words of extra memory for PDF output out of 10000 (max. 10000000)
 

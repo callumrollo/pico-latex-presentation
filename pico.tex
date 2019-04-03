@@ -58,9 +58,9 @@
    \centering \usebeamerfont{institute} \insertinstitute
   \end{column}
   % PICUTRE
-  \begin{column}[c]{1.0cm}
+  \begin{column}[c]{0.9cm}
     \hspace{0.005cm}
-    \includegraphics[trim=100 100 100 500,clip,height=1.05cm]{figure/face.jpg}
+    \includegraphics[trim=0 0 0 0,clip,height=1.05cm]{figure/mug.jpg}
   \end{column}
   \end{columns}
   {\color{slfcolor}\hrule height 1pt\vspace{0.1cm}}
@@ -97,25 +97,16 @@
     \hyperlink{intro}{\beamerbutton{Introduction}}
     \tocbuttoncolor{trial_shear}
     \hspace{\buttonspacingfootline}
-      \hyperlink{trial_shear}{\beamerbutton{Oban shear}}
-    \tocbuttoncolor{line}
+      \hyperlink{trial_shear}{\beamerbutton{Trials results}}
+    \tocbuttoncolor{plan}
     \hspace{\buttonspacingfootline}
-      \hyperlink{line}{\beamerbutton{Line Features}}
-    \tocbuttoncolor{major}
+      \hyperlink{plan}{\beamerbutton{Deployment plan}}
+    \tocbuttoncolor{qc}
     \hspace{\buttonspacingfootline}
-      \hyperlink{major}{\beamerbutton{Major Surges}}
-    \tocbuttoncolor{slab}
+      \hyperlink{qc}{\beamerbutton{Data qc}}
+    \tocbuttoncolor{tech}
     \hspace{\buttonspacingfootline}
-      \hyperlink{slab}{\beamerbutton{Slab Release}}
-    \tocbuttoncolor{minor}
-    \hspace{\buttonspacingfootline}
-      \hyperlink{minor}{\beamerbutton{Minor Surges}}
-    \tocbuttoncolor{friction}
-    \hspace{\buttonspacingfootline}
-      \hyperlink{friction}{\beamerbutton{Friction}}
-    \tocbuttoncolor{conclusion}
-    \hspace{\buttonspacingfootline}
-      \hyperlink{conclusion}{\beamerbutton{Conclusion}}
+      \hyperlink{tech}{\beamerbutton{Tech specs}}
     % this last one should normaly not be used... it will open the preferences to change the 
     % behaviour of the acrobat reader in fullscreen -> usefull in pico...
     \setbeamercolor{button}{bg=white,fg=black}
@@ -146,11 +137,8 @@
 \justifying
 
 \vspace*{-1.2mm}    
-%\hspace*{-\beamerleftmargin}
-%\hspace*{-1.05cm}
-\includegraphics[trim=0 0 100 5,clip,width=\paperwidth]{figure/splash.jpg}
 
-%\includegraphics[trim=0 0 0 0,clip,width=1.2\textwidth,keepaspectratio]{figure/splash.jpg}\\
+\includegraphics[trim=0 0 100 5,clip,width=\paperwidth]{figure/splash.jpg}
 
 
 \end{frame}
@@ -168,170 +156,162 @@
   
 \end{frame}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\mysection{line}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}\label{\secvariable}
+
+\begin{frame}\label{sawtooth}
+\vspace*{-1.2mm}    
 \begin{center}
-  \vspace{-0.5cm}
- \includegraphics[width=1\textwidth,height=0.8\textheight,keepaspectratio]{%
-  figure/PIC1.jpg}
+\includegraphics[trim=0 0 0 50,clip,width=0.8\paperwidth]{figure/sawtooth.png}
 \end{center}
-  \vspace{-0.5cm}
-  \textbf{a)} GEODAR show many approaching line features\\
-  \textbf{b)} Flow-height measured by upward--looking FMCW radar.\\
-  $\quad \Rightarrow$ Line features correspond to waves: We call them surges.
+
+\vspace*{-5.2mm}
+\begin{columns}
+\begin{column}[t]{0.9\textwidth}
+Dive profile from trials with glider depth and bins out to 15 m plotted
+\end{column}
+\end{columns}
+
+
   
 \end{frame}
 
+\begin{frame}\label{3_dives}
+\vspace*{-1.2mm}    
+\begin{center}
+\includegraphics[trim=0 0 0 50,clip,width=\paperwidth]{figure/diveclimb_vel9.png}
+\end{center}
+
+\vspace*{-5.2mm}
+\begin{columns}
+\begin{column}[t]{0.9\textwidth}
+Good agreement for horizontal velocities between descents and ascents
+\end{column}
+\end{columns}
+
+
+
+  
+\end{frame}
+
+
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\mysection{major}
+\mysection{plan}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}\label{\secvariable} %%Eine Folie
+\vspace{-0.3cm}
 \begin{center}
-\includegraphics[width=1\textwidth,height=0.8\textheight,keepaspectratio]{%
-figure/PIC1.jpg}
+\includegraphics[trim=0 10 0 110,clip,width=1\textwidth,keepaspectratio]{%
+figure/basemap.png}
 \end{center}
 \begin{columns}
-\begin{column}[t]{1.1\textwidth}
- Major surges can exist in the avalanche body and they overrun each other.\\
- The origin of the major surges are secondary slab release (colored bars).
-\end{column}
-\end{columns}
-\end{frame}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\mysection{slab}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}\label{\secvariable}
-\includegraphics[width=1\textwidth,height=0.8\textheight,keepaspectratio]{%
-figure/PIC1.jpg}
-\begin{columns}
-\begin{column}[t]{1.1\textwidth}
- Video and laserscan data reveal the occurrence of slab releases.\\
- Around \SI{50}{\percent} of the total entrained volume entered the flow via
-slabs.\\
-  The slabs can be as large as the initial released slab.
-\hyperlink{slabtable}{\beamerbutton{more \dots}}
+\begin{column}[t]{0.9\textwidth}
+Deployment to the Faroe Shetland Channel April 2019 in conjunction with ADCP mooring and PIES \hyperlink{fsc_shear}{\beamerbutton{see expected conditions}}
 \end{column}
 \end{columns}
 \end{frame}
 
 
-
-\begin{frame}\label{slabtable}
+\begin{frame}\label{fsc_shear}
+\vspace*{-10mm}    
+\begin{center}
+\includegraphics[trim=20 20 20 60,clip,width=\paperwidth]{figure/adcp_fsc.png}
+\end{center}
+\vspace*{-5mm}    
 \begin{columns}
-\begin{column}[t]{1.1\textwidth}
-\hyperlink{slab}{\beamerbutton{\dots back to figure}}\\
-Slabs enter at random locations into the flowing avalanche and their mass is not
-concentrated at the front.\\
-$\quad \Rightarrow$ Spreading the mass over the flow alters the runout.
-\vspace{0.3cm}
+\begin{column}[t]{0.9\textwidth}
+Tidal currents of $0.2\ \mathrm{m\ s^{-1}}$ and a mean flow of $0.1\ \mathrm{m\ s^{-1}}$ bottom intensified baroclinic tidal flows will be a good test of the ADCP glider.  
+
+ADCP data courtesy of Bee Berx, Marine Scotland Science
 \end{column}
 \end{columns}
-\usebeamerfont{bodytext}
- \begin{tabular}{c|rr@{}c@{}rrrrr}
- \setlength{\tabcolsep}{6mm}
-   & Time & \multicolumn{3}{r}{Volume} & Range & Length & Area & Depth \\
-   & [\si{\second}] & \multicolumn{3}{r}{[\si{\cubic\metre}]} & [\si{\metre}] &
-[\si{\metre}] & [\si{\square\metre}] & [\si{\metre}]\\\hline
-
-   \textbf{Avalanche~\#0019} & & $V_t$ &=& 29500 & & & 40411 & 0.73 \\
-   initial release &3.4& $V_0$ &=& 2188 & 2506 &  62 &  1400 & 1.56 \\
-   slab \#1 & 17.2    &  $V_1$ &=&  521 & 2356 &  39 &   701 & 0.74 \\
-   slab \#2 & 23.4    &  $V_2$ &=& 3503 & 2284 &  83 &  2753 & 1.28 \\
-   slab \#3 & 20--25$^*$ &  $V_3$ &=& 3345 & 2150 &  99 &  1880 & 1.78 \\
-   slab \#4 & 38.7    &  $V_4$ &=& 4276 & 1945 & 153 &  3657 & 1.17 \\
-   \\
-   \textbf{Avalanche~\#0017} & &  $V_t$ &=& 78500 & & & 82632 & 0.95\\
-   initial release&5.2&  $V_0$ &=& 15233 & 2402 & 191 & 12974 & 1.17\\
-   slab \#5 & 12.2    &  $V_5$ &=&  7620 & 2219 & 202 &  6043 & 1.26 \\
-   slab \#6 & 14.1    &  $V_6$ &=&  5868 & 2215 & 166 &  5851 & 1.01 \\
-   slab \#7 & 25.6    &  $V_7$ &=&  6307 & 1982 &  95 &  3320 & 1.90 \\
-   slab \#8 & 15--25$^*$ &  $V_8$ &=& 10663 & 1947 & 253 &  5037 & 2.12
- \end{tabular}
  
-\vspace{0.2cm}
- \textbf{Table:} Release time, Volume, Location and size parameters of all
-identified slabs.
-
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\mysection{qc}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}\label{\secvariable}
+\ \ Quality control  and calculation steps
+\begin{itemize}
+\item Discard cells where glider attitude causes beam miss of $> 1$ m \hyperlink{flight_envelope}{\beamerbutton{see plot}}
+\item Discard cells where the ping correlation is less than 50\%
+ \hyperlink{ping_corr}{\beamerbutton{see plot}}
+\item Rotate from beam coordinates to East-North-Up using data from attitude sensors and compass on the ADCP
+\item Calculate shear between each remaining adjacent cell
+\item Average shear data in 2 m vertical bins
+\item Integrate shear to get relative velocity profiles
+\item Reference relative velocity profiles using dive average current from the glider for "absolute" velocity profiles
+\item What if we don't use quality control? \hyperlink{no_qc}{\beamerbutton{see plot}}
+\end{itemize}
 \end{frame}
 
 
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\mysection{minor}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}\label{\secvariable} %%Eine Folie
+\begin{frame}\label{flight_envelope}
+\vspace{-0.3cm}
 \begin{center}
-\includegraphics[width=1\textwidth,height=0.7\textheight,keepaspectratio]{%
-figure/PIC1.jpg}
+\includegraphics[trim=0 10 0 50,clip,width=1\textwidth,keepaspectratio]{%
+figure/flight_aim.png}
 \end{center}
-\vspace{-0.2cm}
+\vspace{-0.3cm}
 \begin{columns}
-\begin{column}[t]{1.1\textwidth}
-Minor surges are only found in the head of large powder avalanches.\\
-They are flow features (roll waves) in the energetic
-frontal region.\\
-Their speed is high and constant when behind the front, but dramatically \\
-$\quad$ decelerate as soon they overtake the leading edge.
-
+\begin{column}[t]{0.9\textwidth}
+Flight angles affect the vertical location of the three beams. Plot shows the vertical distance between beams sampling a cell 15 m from the glider over a range of pitch and roll angles. Perfect sampling (0 m beam miss) is achieved at $\pm17.3^{\circ}$ pitch $0^{\circ}$ roll
 \end{column}
 \end{columns}
-
 \end{frame}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\mysection{friction}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}\label{\secvariable}
-\hspace{-0.6cm}
-\includegraphics[width=0.6\textwidth,height=0.7\textheight,keepaspectratio]{%
-figure/PIC1.jpg}
-\includegraphics[width=1\textwidth,height=0.46\textheight,keepaspectratio]{%
-figure/PIC1.jpg}
-
+\begin{frame}\label{ping_corr}
+\vspace{-0.3cm}
+\begin{center}
+\includegraphics[trim=0 10 0 50,clip,width=0.8\textwidth,keepaspectratio]{%
+figure/corr.png}
+\end{center}
+\vspace{-0.3cm}
 \begin{columns}
-\begin{column}[t]{1.1\textwidth}
-Minor surges were simulated with a 1D Voellmy--like model.\\
-Model \#1 describes the front, thats what usual models do.\\
-Model \#2 tries to follow every surge individually, but no deceleration.\\
-Model \#3 explains minor surges with 2 sets of friction
-parameters\\
-\vspace{0.2cm}
-$\Rightarrow$ The effective friction changes dramatically as soon as\\
-\raggedleft the surge reaches the front\\
-\raggedright $\Rightarrow$ The avalanche body experiences different flow
-conditions as the front.
+\begin{column}[t]{0.9\textwidth}
+Dots are vertical missmatch of  beams at 15 m from glider. white for descent, red for ascent. Closer to 0 = better flight
 \end{column}
 \end{columns}
-
 \end{frame}
 
+\begin{frame}\label{no_qc}
+\vspace{-0.3cm}
+\begin{center}
+\includegraphics[trim=70 20 80 80,clip,width=\paperwidth]{figure/95_noqc.png}
+\end{center}
+\begin{columns}
+\begin{column}[t]{0.9\textwidth}
+The same data as the introduction, without quality control steps
+\end{column}
+\end{columns}
+\end{frame}
+
+
+%\hyperlinkslidenext{\beamerbutton{next}}
+
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\mysection{conclusion}
+\mysection{tech}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}\label{\secvariable}
+
+  \vspace{-1.5cm}
+\ Seaglider max depth 1000m , vertical velocity 0.1 m/s
+
+\ ADCP spec:
+\begin{itemize}
+\item Sampling frequency 1 MHz 
+\item Range 30 m (max) 10-15 m (typical)
+\item 3 downward looking beams at 30 degrees from vertical 
+\item Cell size 2 m
+\item 2 second ensemble of 8 pings every 30 seconds
+\item Expected endurance 6 weeks
+\end{itemize}
   
-  \begin{itemize}
-   \item GEODAR radar is able to track internal surges (flow height waves)
-below the powder cloud of snow avalanches.
-   Two types of surges exist: \textit{Major} and \textit{Minor surges} are
-differentiated by their length.
-  \item Major surges can occur at random location in the flow and influence the
-mass distribution of the avalanche.
-   Minor surges are ubiquitous feature of the fast--flowing energetic
-part in the frontal region of large powder avalanches. 
-  \item The effective friction between the front and the avalanche body
-differs. This must be explained with changes in the snow surface like smoothing
-and entrainment of the soft, upper snow layers. Numerical models not yet account for this.
-
-  \end{itemize}
-
-  \usebeamerfont{bodytext}
-Original template by Anselm K\"ohler\\ \texttt{https://github.com/snowtechblog/pico-latex-presentation}
-
+\begin{columns}
+\begin{column}[t]{0.9\textwidth}
+\usebeamerfont{bodytext}PICO adapted from the template by Anselm K\"ohler found here: \\ \texttt{https://github.com/snowtechblog/pico-latex-presentation}
+\end{column}
+\end{columns}
 \end{frame}
 
 
