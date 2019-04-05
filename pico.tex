@@ -45,13 +45,17 @@
 \setbeamertemplate{headline}
 {\leavevmode
 \begin{beamercolorbox}[width=1\paperwidth]{head title}
-  % LOGO
+  % LOGOS
   \begin{columns}[t, totalwidth=\textwidth]
-  \begin{column}[c]{1.05cm}
+  \begin{column}[c]{0.35cm}
      \includegraphics[height=1.05cm]{figure/graphic_egu_photo_yes.png}
   \end{column}
+  \begin{column}[c]{0.8cm}
+     \includegraphics[height=1.05cm]{figure/egu_ospp_label_blue.png}
+  \end{column}
+
   % TITLE
-   \begin{column}[c]{10.6cm}
+   \begin{column}[c]{9.6cm}
    \centering \usebeamerfont{title} \textcolor{slfcolor}{\inserttitle} \\
    \centering \usebeamerfont{author} \color[rgb]{0,0,0} \insertauthor \\
    \vspace{-0.05cm}
@@ -98,6 +102,9 @@
     \tocbuttoncolor{trial_shear}
     \hspace{\buttonspacingfootline}
       \hyperlink{trial_shear}{\beamerbutton{Trials results}}
+    \tocbuttoncolor{rationale}
+    \hspace{\buttonspacingfootline}
+      \hyperlink{rationale}{\beamerbutton{Rationale \& aims}}
     \tocbuttoncolor{plan}
     \hspace{\buttonspacingfootline}
       \hyperlink{plan}{\beamerbutton{Deployment plan}}
@@ -148,6 +155,15 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}\label{\secvariable}
 \includegraphics[trim=70 20 80 80,clip,width=\paperwidth]{figure/95_qc.png}
+\vspace*{-5mm}
+\begin{columns}
+\begin{column}[t]{0.9\textwidth}
+
+\scriptsize Velocity shear coloured by the depth of the glider during at the time of the ensemble
+\end{column}
+\end{columns}
+
+
 
 \begin{itemize}
 \item Vertical shear of horizontal velocity coherent between ensembles
@@ -192,8 +208,31 @@ Good agreement for horizontal velocities between descents and ascents
   
 \end{frame}
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\mysection{rationale}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}\label{\secvariable}
+
+\vspace*{-5.2mm}
+\begin{columns}
+\begin{column}[t]{0.9\textwidth}
+
+Presently, current velocities are directly measured primarily using moored ADCPs. These systems are reliable but come with drawbacks that we hope to address by using a glider instead:
+
+\begin{itemize}
+\item Moorings are often "trawled out" by fishing activity, a glider is much less vulnerable.
+\item Recovering and replacing moorings requires expensive ship time. Gliders can be launched and recovered from cheap, small vessels.
+\item Upward facing moored ADCPs suffer from reflections near the surface, the downward facing ADCP on a glider does not.
+\item As they profile, gliders collect  salinity and temperature data every 5 s. Analysing this with coincident shear is of great scientific value.
+\item The higher frequency glider ADCP (1MHz vs 55 kHz) can resolve smaller features in current shear. \hyperlink{tech}{\beamerbutton{see tech specs}}
+\end{itemize}
+\end{column}
+\end{columns}
 
 
+
+  
+\end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \mysection{plan}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -205,9 +244,27 @@ figure/basemap.png}
 \end{center}
 \begin{columns}
 \begin{column}[t]{0.9\textwidth}
-Deployment to the Faroe Shetland Channel April 2019 in conjunction with ADCP mooring and PIES \hyperlink{fsc_shear}{\beamerbutton{see expected conditions}}
+Red dot marks planned deployment to the Faroe Shetland Channel April 2019 \hyperlink{dep_details}{\beamerbutton{more details}} \hyperlink{fsc_shear}{\beamerbutton{see expected conditions}}
 \end{column}
 \end{columns}
+\end{frame}
+
+\begin{frame}\label{dep_details} %%Eine Folie
+\vspace{-0.3cm}
+\begin{center}
+
+\begin{columns}
+\begin{column}[t]{0.9\textwidth}
+\begin{itemize}
+\item Glider will be deployed for $14+$ days to resolve a tidal cycle at a point on the slope in 600 m depth of water.
+\item At the same location we will deploy a 55 kHz moored ADCP to validate the shear velocities estimated from the glider.
+\item A Pressure Inverted Echo Sounder (PIES) will also be deployed with the moored ADCP, this will provide information of sea surface height, sound velocity and thermocline location at high temporal resolution to complement glider data.
+\item We expect to resolve the spring-neap cycle and hope to see evidence of internal tides and solibores.
+\item If successful, the glider will transit to another nearby mooring and repeat the procedure, collecting shear velocity profiles between the two moorings 
+\end{itemize}
+\end{column}
+\end{columns}
+\end{center}
 \end{frame}
 
 
@@ -219,7 +276,7 @@ Deployment to the Faroe Shetland Channel April 2019 in conjunction with ADCP moo
 \vspace*{-5mm}    
 \begin{columns}
 \begin{column}[t]{0.9\textwidth}
-Tidal currents of $0.2\ \mathrm{m\ s^{-1}}$ and a mean flow of $0.1\ \mathrm{m\ s^{-1}}$ bottom intensified baroclinic tidal flows will be a good test of the ADCP glider.  
+55 kHz moored ADCP data from the deployment location. Tidal currents of $0.2\ \mathrm{m\ s^{-1}}$ and bottom intensified baroclinic flows expected.
 
 ADCP data courtesy of Bee Berx, Marine Scotland Science
 \end{column}
@@ -230,9 +287,9 @@ ADCP data courtesy of Bee Berx, Marine Scotland Science
 \mysection{qc}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}\label{\secvariable}
-\ \ Quality control  and calculation steps
+\ \textbf{Quality control  and calculation steps}
 \begin{itemize}
-\item Discard cells where glider attitude causes beam miss of $> 1$ m \hyperlink{flight_envelope}{\beamerbutton{see plot}}
+\item Discard cells where glider attitude causes beam miss of $> 1$ m as the beam swill be sampling different bins \hyperlink{flight_envelope}{\beamerbutton{see plot}}
 \item Discard cells where the ping correlation is less than 50\%
  \hyperlink{ping_corr}{\beamerbutton{see plot}}
 \item Rotate from beam coordinates to East-North-Up using data from attitude sensors and compass on the ADCP
@@ -240,7 +297,7 @@ ADCP data courtesy of Bee Berx, Marine Scotland Science
 \item Average shear data in 2 m vertical bins
 \item Integrate shear to get relative velocity profiles
 \item Reference relative velocity profiles using dive average current from the glider for "absolute" velocity profiles
-\item What if we don't use quality control? \hyperlink{no_qc}{\beamerbutton{see plot}}
+\item What if we don't apply this quality control? \hyperlink{no_qc}{\beamerbutton{see plot}}
 \end{itemize}
 \end{frame}
 
@@ -254,10 +311,25 @@ figure/flight_aim.png}
 \vspace{-0.3cm}
 \begin{columns}
 \begin{column}[t]{0.9\textwidth}
-Flight angles affect the vertical location of the three beams. Plot shows the vertical distance between beams sampling a cell 15 m from the glider over a range of pitch and roll angles. Perfect sampling (0 m beam miss) is achieved at $\pm17.3^{\circ}$ pitch $0^{\circ}$ roll
+Flight angle affects the vertical location of the three beams. Plot shows the vertical distance between beams sampling a cell 15 m from the glider over a range of pitch and roll angles. Perfect sampling is achieved at $\pm17.3^{\circ}$ pitch $0^{\circ}$ roll \hyperlink{dive_flight}{\beamerbutton{show me an example}}
 \end{column}
 \end{columns}
 \end{frame}
+
+\begin{frame}\label{dive_flight}
+\vspace{-0.3cm}
+\begin{center}
+\includegraphics[trim=0 10 0 50,clip,width=1\textwidth,keepaspectratio]{%
+figure/flight_miss.png}
+\end{center}
+\vspace{-0.3cm}
+\begin{columns}
+\begin{column}[t]{0.9\textwidth}
+Example ascent profile shows the difficulty of keeping the glider within the acceptable pitch and roll envelope \hyperlink{flight_envelope}{\beamerbutton{see plot}}, especially on short dives 
+\end{column}
+\end{columns}
+\end{frame}
+
 
 \begin{frame}\label{ping_corr}
 \vspace{-0.3cm}
@@ -268,7 +340,7 @@ figure/corr.png}
 \vspace{-0.3cm}
 \begin{columns}
 \begin{column}[t]{0.9\textwidth}
-Dots are vertical missmatch of  beams at 15 m from glider. white for descent, red for ascent. Closer to 0 = better flight
+Average ping correlation over the course of 8 dives. Good correlation is achieved out to 15 - 20 m. Dots are average beam miss 15 m from glider, white for descent, red for ascent, as in \hyperlink{flight_envelope}{\beamerbutton{beam miss from flight}}
 \end{column}
 \end{columns}
 \end{frame}
@@ -280,7 +352,7 @@ Dots are vertical missmatch of  beams at 15 m from glider. white for descent, re
 \end{center}
 \begin{columns}
 \begin{column}[t]{0.9\textwidth}
-The same data as the introduction, without quality control steps
+The same data as \hyperlink{trial_shear}{\beamerbutton{the introduction}}, without quality control steps. The shape of horizontal shear is visible, but the signal is extremely noisy.
 \end{column}
 \end{columns}
 \end{frame}
@@ -294,22 +366,27 @@ The same data as the introduction, without quality control steps
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}\label{\secvariable}
 
-  \vspace{-1.5cm}
-\ Seaglider max depth 1000m , vertical velocity 0.1 m/s
-
-\ ADCP spec:
-\begin{itemize}
-\item Sampling frequency 1 MHz 
-\item Range 30 m (max) 10-15 m (typical)
-\item 3 downward looking beams at 30 degrees from vertical 
-\item Cell size 2 m
-\item 2 second ensemble of 8 pings every 30 seconds
-\item Expected endurance 6 weeks
-\end{itemize}
-  
 \begin{columns}
 \begin{column}[t]{0.9\textwidth}
-\usebeamerfont{bodytext}PICO adapted from the template by Anselm K\"ohler found here: \\ \texttt{https://github.com/snowtechblog/pico-latex-presentation}
+\ \textbf{Seaglider spec:} max depth 1000 m , vertical velocity $\approx0.1\ \mathrm{m\ s^{-1}}$
+
+\ \textbf{ADCP spec/deployment settings:}
+\begin{itemize}
+\item Sampling frequency 1 MHz 
+\item Range 30 m (max) 15-20 m (typical)
+\item 3 downward facing beams at 30 degrees from vertical 
+\item Cell size 2 m
+\item Blanking distance 0.3 m
+\item 3 second ensemble of 8 pings every 30 seconds
+\end{itemize}
+Gives 80 - 85 \% profile overlap (15-20 m range velocity shear profile every 3 m of glider vertical travel)
+
+Expected endurance 6 weeks
+\noindent\rule[0.5ex]{\linewidth}{1pt}
+
+\usebeamerfont{bodytext}
+\LaTeX{} available on my github  \texttt{github.com/callumrollo/pico-latex-presentation}
+Adapted from the template by Anselm K\"ohler: \texttt{github.com/snowtechblog/pico-latex-presentation}
 \end{column}
 \end{columns}
 \end{frame}
