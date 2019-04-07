@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.9.17)  5 APR 2019 15:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.9.17)  7 APR 2019 09:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1689,11 +1689,11 @@ Package pdftex.def Info: figure/CreativeCommons_Attribution_License.pdf used on
 [8
 
  <./figure/adcp_fsc.png>]
-Package keyval Info: width undefined on input line 302.
+Package keyval Info: width undefined on input line 303.
 File: figure/graphic_egu_photo_yes.png Graphic file (type png)
  <use figure/graphic_egu_photo_yes.png>
 Package pdftex.def Info: figure/graphic_egu_photo_yes.png used on input line 30
-2.
+3.
 (pdftex.def)             Requested size: 21.33821pt x 29.87547pt.
 
 Overfull \hbox (11.37958pt too wide) has occurred while \output is active
@@ -1702,7 +1702,7 @@ Overfull \hbox (11.37958pt too wide) has occurred while \output is active
 
 File: figure/egu_ospp_label_blue.png Graphic file (type png)
 <use figure/egu_ospp_label_blue.png>
-Package pdftex.def Info: figure/egu_ospp_label_blue.png used on input line 302.
+Package pdftex.def Info: figure/egu_ospp_label_blue.png used on input line 303.
 
 (pdftex.def)             Requested size: 25.0592pt x 29.87547pt.
 
@@ -1712,13 +1712,13 @@ Overfull \hbox (2.29692pt too wide) has occurred while \output is active
 
 File: figure/mug.jpg Graphic file (type jpg)
 <use figure/mug.jpg>
-Package pdftex.def Info: figure/mug.jpg used on input line 302.
+Package pdftex.def Info: figure/mug.jpg used on input line 303.
 (pdftex.def)             Requested size: 22.88017pt x 29.87547pt.
-Package keyval Info: width undefined on input line 302.
+Package keyval Info: width undefined on input line 303.
 File: figure/CreativeCommons_Attribution_License.pdf Graphic file (type pdf)
  <use figure/CreativeCommons_Attribution_License.pdf>
 Package pdftex.def Info: figure/CreativeCommons_Attribution_License.pdf used on
- input line 302.
+ input line 303.
 (pdftex.def)             Requested size: 25.3418pt x 8.87027pt.
 
 [9
@@ -1727,135 +1727,12 @@ Package pdftex.def Info: figure/CreativeCommons_Attribution_License.pdf used on
 File: figure/flight_aim.png Graphic file (type png)
 
 <use figure/flight_aim.png>
-Package pdftex.def Info: figure/flight_aim.png used on input line 317.
+Package pdftex.def Info: figure/flight_aim.png used on input line 318.
 (pdftex.def)             Requested size: 364.19536pt x 165.89398pt.
-Package keyval Info: width undefined on input line 317.
+Package keyval Info: width undefined on input line 318.
 File: figure/graphic_egu_photo_yes.png Graphic file (type png)
  <use figure/graphic_egu_photo_yes.png>
 Package pdftex.def Info: figure/graphic_egu_photo_yes.png used on input line 31
-7.
-(pdftex.def)             Requested size: 21.33821pt x 29.87547pt.
-
-Overfull \hbox (11.37958pt too wide) has occurred while \output is active
-[][]  
- []
-
-File: figure/egu_ospp_label_blue.png Graphic file (type png)
-<use figure/egu_ospp_label_blue.png>
-Package pdftex.def Info: figure/egu_ospp_label_blue.png used on input line 317.
-
-(pdftex.def)             Requested size: 25.0592pt x 29.87547pt.
-
-Overfull \hbox (2.29692pt too wide) has occurred while \output is active
-[][]  
- []
-
-File: figure/mug.jpg Graphic file (type jpg)
-<use figure/mug.jpg>
-Package pdftex.def Info: figure/mug.jpg used on input line 317.
-(pdftex.def)             Requested size: 22.88017pt x 29.87547pt.
-Package keyval Info: width undefined on input line 317.
-File: figure/CreativeCommons_Attribution_License.pdf Graphic file (type pdf)
- <use figure/CreativeCommons_Attribution_License.pdf>
-Package pdftex.def Info: figure/CreativeCommons_Attribution_License.pdf used on
- input line 317.
-(pdftex.def)             Requested size: 25.3418pt x 8.87027pt.
-
-[10
-
- <./figure/flight_aim.png>]
-<figure/flight_miss.png, id=238, 1011.78pt x 578.16pt>
-File: figure/flight_miss.png Graphic file (type png)
-
-<use figure/flight_miss.png>
-Package pdftex.def Info: figure/flight_miss.png used on input line 331.
-(pdftex.def)             Requested size: 364.19536pt x 186.4327pt.
-Package keyval Info: width undefined on input line 331.
-File: figure/graphic_egu_photo_yes.png Graphic file (type png)
- <use figure/graphic_egu_photo_yes.png>
-Package pdftex.def Info: figure/graphic_egu_photo_yes.png used on input line 33
-1.
-(pdftex.def)             Requested size: 21.33821pt x 29.87547pt.
-
-Overfull \hbox (11.37958pt too wide) has occurred while \output is active
-[][]  
- []
-
-File: figure/egu_ospp_label_blue.png Graphic file (type png)
-<use figure/egu_ospp_label_blue.png>
-Package pdftex.def Info: figure/egu_ospp_label_blue.png used on input line 331.
-
-(pdftex.def)             Requested size: 25.0592pt x 29.87547pt.
-
-Overfull \hbox (2.29692pt too wide) has occurred while \output is active
-[][]  
- []
-
-File: figure/mug.jpg Graphic file (type jpg)
-<use figure/mug.jpg>
-Package pdftex.def Info: figure/mug.jpg used on input line 331.
-(pdftex.def)             Requested size: 22.88017pt x 29.87547pt.
-Package keyval Info: width undefined on input line 331.
-File: figure/CreativeCommons_Attribution_License.pdf Graphic file (type pdf)
- <use figure/CreativeCommons_Attribution_License.pdf>
-Package pdftex.def Info: figure/CreativeCommons_Attribution_License.pdf used on
- input line 331.
-(pdftex.def)             Requested size: 25.3418pt x 8.87027pt.
-
-[11
-
- <./figure/flight_miss.png>]
-<figure/corr.png, id=257, 1084.05pt x 691.6239pt>
-File: figure/corr.png Graphic file (type png)
- <use figure/corr.png>
-Package pdftex.def Info: figure/corr.png used on input line 346.
-(pdftex.def)             Requested size: 291.35739pt x 169.69955pt.
-Package keyval Info: width undefined on input line 346.
-File: figure/graphic_egu_photo_yes.png Graphic file (type png)
-
-<use figure/graphic_egu_photo_yes.png>
-Package pdftex.def Info: figure/graphic_egu_photo_yes.png used on input line 34
-6.
-(pdftex.def)             Requested size: 21.33821pt x 29.87547pt.
-
-Overfull \hbox (11.37958pt too wide) has occurred while \output is active
-[][]  
- []
-
-File: figure/egu_ospp_label_blue.png Graphic file (type png)
-<use figure/egu_ospp_label_blue.png>
-Package pdftex.def Info: figure/egu_ospp_label_blue.png used on input line 346.
-
-(pdftex.def)             Requested size: 25.0592pt x 29.87547pt.
-
-Overfull \hbox (2.29692pt too wide) has occurred while \output is active
-[][]  
- []
-
-File: figure/mug.jpg Graphic file (type jpg)
-<use figure/mug.jpg>
-Package pdftex.def Info: figure/mug.jpg used on input line 346.
-(pdftex.def)             Requested size: 22.88017pt x 29.87547pt.
-Package keyval Info: width undefined on input line 346.
-File: figure/CreativeCommons_Attribution_License.pdf Graphic file (type pdf)
- <use figure/CreativeCommons_Attribution_License.pdf>
-Package pdftex.def Info: figure/CreativeCommons_Attribution_License.pdf used on
- input line 346.
-(pdftex.def)             Requested size: 25.3418pt x 8.87027pt.
-
-[12
-
- <./figure/corr.png>]
-<figure/95_noqc.png, id=276, 1386.1386pt x 691.6239pt>
-File: figure/95_noqc.png Graphic file (type png)
-
-<use figure/95_noqc.png>
-Package pdftex.def Info: figure/95_noqc.png used on input line 358.
-(pdftex.def)             Requested size: 364.19536pt x 174.27249pt.
-Package keyval Info: width undefined on input line 358.
-File: figure/graphic_egu_photo_yes.png Graphic file (type png)
- <use figure/graphic_egu_photo_yes.png>
-Package pdftex.def Info: figure/graphic_egu_photo_yes.png used on input line 35
 8.
 (pdftex.def)             Requested size: 21.33821pt x 29.87547pt.
 
@@ -1865,7 +1742,7 @@ Overfull \hbox (11.37958pt too wide) has occurred while \output is active
 
 File: figure/egu_ospp_label_blue.png Graphic file (type png)
 <use figure/egu_ospp_label_blue.png>
-Package pdftex.def Info: figure/egu_ospp_label_blue.png used on input line 358.
+Package pdftex.def Info: figure/egu_ospp_label_blue.png used on input line 318.
 
 (pdftex.def)             Requested size: 25.0592pt x 29.87547pt.
 
@@ -1875,22 +1752,28 @@ Overfull \hbox (2.29692pt too wide) has occurred while \output is active
 
 File: figure/mug.jpg Graphic file (type jpg)
 <use figure/mug.jpg>
-Package pdftex.def Info: figure/mug.jpg used on input line 358.
+Package pdftex.def Info: figure/mug.jpg used on input line 318.
 (pdftex.def)             Requested size: 22.88017pt x 29.87547pt.
-Package keyval Info: width undefined on input line 358.
+Package keyval Info: width undefined on input line 318.
 File: figure/CreativeCommons_Attribution_License.pdf Graphic file (type pdf)
  <use figure/CreativeCommons_Attribution_License.pdf>
 Package pdftex.def Info: figure/CreativeCommons_Attribution_License.pdf used on
- input line 358.
+ input line 318.
 (pdftex.def)             Requested size: 25.3418pt x 8.87027pt.
 
-[13
+[10
 
- <./figure/95_noqc.png>]
-Package keyval Info: width undefined on input line 392.
+ <./figure/flight_aim.png>]
+<figure/flight_miss.png, id=238, 1011.78pt x 578.16pt>
+File: figure/flight_miss.png Graphic file (type png)
+
+<use figure/flight_miss.png>
+Package pdftex.def Info: figure/flight_miss.png used on input line 332.
+(pdftex.def)             Requested size: 364.19536pt x 186.4327pt.
+Package keyval Info: width undefined on input line 332.
 File: figure/graphic_egu_photo_yes.png Graphic file (type png)
  <use figure/graphic_egu_photo_yes.png>
-Package pdftex.def Info: figure/graphic_egu_photo_yes.png used on input line 39
+Package pdftex.def Info: figure/graphic_egu_photo_yes.png used on input line 33
 2.
 (pdftex.def)             Requested size: 21.33821pt x 29.87547pt.
 
@@ -1900,7 +1783,7 @@ Overfull \hbox (11.37958pt too wide) has occurred while \output is active
 
 File: figure/egu_ospp_label_blue.png Graphic file (type png)
 <use figure/egu_ospp_label_blue.png>
-Package pdftex.def Info: figure/egu_ospp_label_blue.png used on input line 392.
+Package pdftex.def Info: figure/egu_ospp_label_blue.png used on input line 332.
 
 (pdftex.def)             Requested size: 25.0592pt x 29.87547pt.
 
@@ -1910,13 +1793,130 @@ Overfull \hbox (2.29692pt too wide) has occurred while \output is active
 
 File: figure/mug.jpg Graphic file (type jpg)
 <use figure/mug.jpg>
-Package pdftex.def Info: figure/mug.jpg used on input line 392.
+Package pdftex.def Info: figure/mug.jpg used on input line 332.
 (pdftex.def)             Requested size: 22.88017pt x 29.87547pt.
-Package keyval Info: width undefined on input line 392.
+Package keyval Info: width undefined on input line 332.
 File: figure/CreativeCommons_Attribution_License.pdf Graphic file (type pdf)
  <use figure/CreativeCommons_Attribution_License.pdf>
 Package pdftex.def Info: figure/CreativeCommons_Attribution_License.pdf used on
- input line 392.
+ input line 332.
+(pdftex.def)             Requested size: 25.3418pt x 8.87027pt.
+
+[11
+
+ <./figure/flight_miss.png>]
+<figure/corr.png, id=257, 1084.05pt x 691.6239pt>
+File: figure/corr.png Graphic file (type png)
+ <use figure/corr.png>
+Package pdftex.def Info: figure/corr.png used on input line 347.
+(pdftex.def)             Requested size: 291.35739pt x 169.69955pt.
+Package keyval Info: width undefined on input line 347.
+File: figure/graphic_egu_photo_yes.png Graphic file (type png)
+
+<use figure/graphic_egu_photo_yes.png>
+Package pdftex.def Info: figure/graphic_egu_photo_yes.png used on input line 34
+7.
+(pdftex.def)             Requested size: 21.33821pt x 29.87547pt.
+
+Overfull \hbox (11.37958pt too wide) has occurred while \output is active
+[][]  
+ []
+
+File: figure/egu_ospp_label_blue.png Graphic file (type png)
+<use figure/egu_ospp_label_blue.png>
+Package pdftex.def Info: figure/egu_ospp_label_blue.png used on input line 347.
+
+(pdftex.def)             Requested size: 25.0592pt x 29.87547pt.
+
+Overfull \hbox (2.29692pt too wide) has occurred while \output is active
+[][]  
+ []
+
+File: figure/mug.jpg Graphic file (type jpg)
+<use figure/mug.jpg>
+Package pdftex.def Info: figure/mug.jpg used on input line 347.
+(pdftex.def)             Requested size: 22.88017pt x 29.87547pt.
+Package keyval Info: width undefined on input line 347.
+File: figure/CreativeCommons_Attribution_License.pdf Graphic file (type pdf)
+ <use figure/CreativeCommons_Attribution_License.pdf>
+Package pdftex.def Info: figure/CreativeCommons_Attribution_License.pdf used on
+ input line 347.
+(pdftex.def)             Requested size: 25.3418pt x 8.87027pt.
+
+[12
+
+ <./figure/corr.png>]
+<figure/95_noqc.png, id=276, 1386.1386pt x 691.6239pt>
+File: figure/95_noqc.png Graphic file (type png)
+
+<use figure/95_noqc.png>
+Package pdftex.def Info: figure/95_noqc.png used on input line 359.
+(pdftex.def)             Requested size: 364.19536pt x 174.27249pt.
+Package keyval Info: width undefined on input line 359.
+File: figure/graphic_egu_photo_yes.png Graphic file (type png)
+ <use figure/graphic_egu_photo_yes.png>
+Package pdftex.def Info: figure/graphic_egu_photo_yes.png used on input line 35
+9.
+(pdftex.def)             Requested size: 21.33821pt x 29.87547pt.
+
+Overfull \hbox (11.37958pt too wide) has occurred while \output is active
+[][]  
+ []
+
+File: figure/egu_ospp_label_blue.png Graphic file (type png)
+<use figure/egu_ospp_label_blue.png>
+Package pdftex.def Info: figure/egu_ospp_label_blue.png used on input line 359.
+
+(pdftex.def)             Requested size: 25.0592pt x 29.87547pt.
+
+Overfull \hbox (2.29692pt too wide) has occurred while \output is active
+[][]  
+ []
+
+File: figure/mug.jpg Graphic file (type jpg)
+<use figure/mug.jpg>
+Package pdftex.def Info: figure/mug.jpg used on input line 359.
+(pdftex.def)             Requested size: 22.88017pt x 29.87547pt.
+Package keyval Info: width undefined on input line 359.
+File: figure/CreativeCommons_Attribution_License.pdf Graphic file (type pdf)
+ <use figure/CreativeCommons_Attribution_License.pdf>
+Package pdftex.def Info: figure/CreativeCommons_Attribution_License.pdf used on
+ input line 359.
+(pdftex.def)             Requested size: 25.3418pt x 8.87027pt.
+
+[13
+
+ <./figure/95_noqc.png>]
+Package keyval Info: width undefined on input line 393.
+File: figure/graphic_egu_photo_yes.png Graphic file (type png)
+ <use figure/graphic_egu_photo_yes.png>
+Package pdftex.def Info: figure/graphic_egu_photo_yes.png used on input line 39
+3.
+(pdftex.def)             Requested size: 21.33821pt x 29.87547pt.
+
+Overfull \hbox (11.37958pt too wide) has occurred while \output is active
+[][]  
+ []
+
+File: figure/egu_ospp_label_blue.png Graphic file (type png)
+<use figure/egu_ospp_label_blue.png>
+Package pdftex.def Info: figure/egu_ospp_label_blue.png used on input line 393.
+
+(pdftex.def)             Requested size: 25.0592pt x 29.87547pt.
+
+Overfull \hbox (2.29692pt too wide) has occurred while \output is active
+[][]  
+ []
+
+File: figure/mug.jpg Graphic file (type jpg)
+<use figure/mug.jpg>
+Package pdftex.def Info: figure/mug.jpg used on input line 393.
+(pdftex.def)             Requested size: 22.88017pt x 29.87547pt.
+Package keyval Info: width undefined on input line 393.
+File: figure/CreativeCommons_Attribution_License.pdf Graphic file (type pdf)
+ <use figure/CreativeCommons_Attribution_License.pdf>
+Package pdftex.def Info: figure/CreativeCommons_Attribution_License.pdf used on
+ input line 393.
 (pdftex.def)             Requested size: 25.3418pt x 8.87027pt.
 
 [14
@@ -1931,11 +1931,11 @@ Package pdftex.def Info: figure/CreativeCommons_Attribution_License.pdf used on
 \tf@snm=\write8
 \openout8 = `pico.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 396.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 396.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 397.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 397.
  (./pico.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 396.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 396.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 397.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 397.
 Package rerunfilecheck Info: File `pico.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -1943,7 +1943,7 @@ Package rerunfilecheck Info: File `pico.out' has not changed.
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 3.5pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 396.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 397.
  ) 
 Here is how much of TeX's memory you used:
  26099 strings out of 493029
@@ -1963,7 +1963,7 @@ onts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts
 /public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmtt8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
 ts/symbols/msam10.pfb>
-Output written on pico.pdf (14 pages, 2192723 bytes).
+Output written on pico.pdf (14 pages, 2192743 bytes).
 PDF statistics:
  356 PDF objects out of 1000 (max. 8388607)
  262 compressed objects within 3 object streams

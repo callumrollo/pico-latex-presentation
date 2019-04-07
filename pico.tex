@@ -289,16 +289,17 @@ ADCP data courtesy of Bee Berx, Marine Scotland Science
 \begin{frame}\label{\secvariable}
 \ \textbf{Quality control  and calculation steps}
 \begin{itemize}
-\item Discard cells where glider attitude causes beam miss of $> 1$ m as the beam swill be sampling different bins \hyperlink{flight_envelope}{\beamerbutton{see plot}}
+\item Discard cells where glider attitude causes beam miss of $> 1$ m as the beams will be sampling different bins \hyperlink{flight_envelope}{\beamerbutton{see plot}}
 \item Discard cells where the ping correlation is less than 50\%
  \hyperlink{ping_corr}{\beamerbutton{see plot}}
 \item Rotate from beam coordinates to East-North-Up using data from attitude sensors and compass on the ADCP
-\item Calculate shear between each remaining adjacent cell
-\item Average shear data in 2 m vertical bins
+\item Calculate shear between adjacent sampling cells in each ensemble
+\item Average shear data from all ensembles of the dive in 2 m vertical bins
 \item Integrate shear to get relative velocity profiles
 \item Reference relative velocity profiles using dive average current from the glider for "absolute" velocity profiles
-\item What if we don't apply this quality control? \hyperlink{no_qc}{\beamerbutton{see plot}}
+
 \end{itemize}
+\ What if we don't apply this quality control? \hyperlink{no_qc}{\beamerbutton{see plot}}
 \end{frame}
 
 
