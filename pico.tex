@@ -11,6 +11,7 @@
 \usepackage{color}
 \usepackage{ifthen}
 \usepackage{ragged2e}
+\usepackage{animate}
 
 \setbeamertemplate{navigation symbols}{}%remove navigation symbols
 \setbeamersize{text margin left=0pt,text margin right=0pt} % text and figures flush to edges
@@ -114,6 +115,7 @@
     \tocbuttoncolor{tech}
     \hspace{\buttonspacingfootline}
       \hyperlink{tech}{\beamerbutton{Tech specs}}
+
     % this last one should normaly not be used... it will open the preferences to change the 
     % behaviour of the acrobat reader in fullscreen -> usefull in pico...
     \setbeamercolor{button}{bg=white,fg=black}
@@ -149,6 +151,14 @@
 
 
 \end{frame}
+
+
+\begin{frame}\label{animation}
+
+\animategraphics[trim=200 105 170 80,clip,autoplay,width=\paperwidth]{5}{./ani_png/bar}{1}{101}
+
+\end{frame}
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \mysection{trial_shear}
@@ -359,9 +369,6 @@ The same data as \hyperlink{trial_shear}{\beamerbutton{the introduction}}, witho
 \end{frame}
 
 
-%\hyperlinkslidenext{\beamerbutton{next}}
-
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \mysection{tech}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -382,7 +389,7 @@ The same data as \hyperlink{trial_shear}{\beamerbutton{the introduction}}, witho
 \end{itemize}
 Gives 80 - 85 \% profile overlap (15-20 m range velocity shear profile every 3 m of glider vertical travel)
 
-Expected endurance 6 weeks
+Expected endurance 6 weeks \hyperlink{animation}{\beamerbutton{Take me back to the cool animation}}
 \noindent\rule[0.5ex]{\linewidth}{1pt}
 
 \usebeamerfont{bodytext}
