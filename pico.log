@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.9.17)  7 APR 2019 22:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.9.17)  7 APR 2019 23:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1539,610 +1539,610 @@ Package keyval Info: clip undefined on input line 160.
 File: ./ani_png/bar1.png Graphic file (type png)
  <use ./ani_png/bar1.png>
 Package pdftex.def Info: ./ani_png/bar1.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar1.png> <./ani_png/bar2.png, id=73, 1589.94pt x 939.51pt>
 File: ./ani_png/bar2.png Graphic file (type png)
 
 <use ./ani_png/bar2.png>
 Package pdftex.def Info: ./ani_png/bar2.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar2.png>
 <./ani_png/bar3.png, id=81, 1589.94pt x 939.51pt>
 File: ./ani_png/bar3.png Graphic file (type png)
  <use ./ani_png/bar3.png>
 Package pdftex.def Info: ./ani_png/bar3.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar3.png> <./ani_png/bar4.png, id=89, 1589.94pt x 939.51pt>
 File: ./ani_png/bar4.png Graphic file (type png)
 
 <use ./ani_png/bar4.png>
 Package pdftex.def Info: ./ani_png/bar4.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar4.png>
 <./ani_png/bar5.png, id=97, 1589.94pt x 939.51pt>
 File: ./ani_png/bar5.png Graphic file (type png)
  <use ./ani_png/bar5.png>
 Package pdftex.def Info: ./ani_png/bar5.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar5.png> <./ani_png/bar6.png, id=105, 1589.94pt x 939.51pt>
 File: ./ani_png/bar6.png Graphic file (type png)
 
 <use ./ani_png/bar6.png>
 Package pdftex.def Info: ./ani_png/bar6.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar6.png>
 <./ani_png/bar7.png, id=113, 1589.94pt x 939.51pt>
 File: ./ani_png/bar7.png Graphic file (type png)
  <use ./ani_png/bar7.png>
 Package pdftex.def Info: ./ani_png/bar7.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar7.png> <./ani_png/bar8.png, id=121, 1589.94pt x 939.51pt>
 File: ./ani_png/bar8.png Graphic file (type png)
 
 <use ./ani_png/bar8.png>
 Package pdftex.def Info: ./ani_png/bar8.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar8.png>
 <./ani_png/bar9.png, id=129, 1589.94pt x 939.51pt>
 File: ./ani_png/bar9.png Graphic file (type png)
  <use ./ani_png/bar9.png>
 Package pdftex.def Info: ./ani_png/bar9.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar9.png> <./ani_png/bar10.png, id=137, 1589.94pt x 939.51pt>
 File: ./ani_png/bar10.png Graphic file (type png)
 
 <use ./ani_png/bar10.png>
 Package pdftex.def Info: ./ani_png/bar10.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar10.png>
 <./ani_png/bar11.png, id=145, 1589.94pt x 939.51pt>
 File: ./ani_png/bar11.png Graphic file (type png)
  <use ./ani_png/bar11.png>
 Package pdftex.def Info: ./ani_png/bar11.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar11.png> <./ani_png/bar12.png, id=153, 1589.94pt x 939.51pt>
 File: ./ani_png/bar12.png Graphic file (type png)
 
 <use ./ani_png/bar12.png>
 Package pdftex.def Info: ./ani_png/bar12.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar12.png>
 <./ani_png/bar13.png, id=161, 1589.94pt x 939.51pt>
 File: ./ani_png/bar13.png Graphic file (type png)
  <use ./ani_png/bar13.png>
 Package pdftex.def Info: ./ani_png/bar13.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar13.png> <./ani_png/bar14.png, id=169, 1589.94pt x 939.51pt>
 File: ./ani_png/bar14.png Graphic file (type png)
 
 <use ./ani_png/bar14.png>
 Package pdftex.def Info: ./ani_png/bar14.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar14.png>
 <./ani_png/bar15.png, id=177, 1589.94pt x 939.51pt>
 File: ./ani_png/bar15.png Graphic file (type png)
  <use ./ani_png/bar15.png>
 Package pdftex.def Info: ./ani_png/bar15.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar15.png> <./ani_png/bar16.png, id=185, 1589.94pt x 939.51pt>
 File: ./ani_png/bar16.png Graphic file (type png)
 
 <use ./ani_png/bar16.png>
 Package pdftex.def Info: ./ani_png/bar16.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar16.png>
 <./ani_png/bar17.png, id=193, 1589.94pt x 939.51pt>
 File: ./ani_png/bar17.png Graphic file (type png)
  <use ./ani_png/bar17.png>
 Package pdftex.def Info: ./ani_png/bar17.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar17.png> <./ani_png/bar18.png, id=201, 1589.94pt x 939.51pt>
 File: ./ani_png/bar18.png Graphic file (type png)
 
 <use ./ani_png/bar18.png>
 Package pdftex.def Info: ./ani_png/bar18.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar18.png>
 <./ani_png/bar19.png, id=209, 1589.94pt x 939.51pt>
 File: ./ani_png/bar19.png Graphic file (type png)
  <use ./ani_png/bar19.png>
 Package pdftex.def Info: ./ani_png/bar19.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar19.png> <./ani_png/bar20.png, id=217, 1589.94pt x 939.51pt>
 File: ./ani_png/bar20.png Graphic file (type png)
 
 <use ./ani_png/bar20.png>
 Package pdftex.def Info: ./ani_png/bar20.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar20.png>
 <./ani_png/bar21.png, id=225, 1589.94pt x 939.51pt>
 File: ./ani_png/bar21.png Graphic file (type png)
  <use ./ani_png/bar21.png>
 Package pdftex.def Info: ./ani_png/bar21.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar21.png> <./ani_png/bar22.png, id=233, 1589.94pt x 939.51pt>
 File: ./ani_png/bar22.png Graphic file (type png)
 
 <use ./ani_png/bar22.png>
 Package pdftex.def Info: ./ani_png/bar22.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar22.png>
 <./ani_png/bar23.png, id=241, 1589.94pt x 939.51pt>
 File: ./ani_png/bar23.png Graphic file (type png)
  <use ./ani_png/bar23.png>
 Package pdftex.def Info: ./ani_png/bar23.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar23.png> <./ani_png/bar24.png, id=249, 1589.94pt x 939.51pt>
 File: ./ani_png/bar24.png Graphic file (type png)
 
 <use ./ani_png/bar24.png>
 Package pdftex.def Info: ./ani_png/bar24.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar24.png>
 <./ani_png/bar25.png, id=257, 1589.94pt x 939.51pt>
 File: ./ani_png/bar25.png Graphic file (type png)
  <use ./ani_png/bar25.png>
 Package pdftex.def Info: ./ani_png/bar25.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar25.png> <./ani_png/bar26.png, id=265, 1589.94pt x 939.51pt>
 File: ./ani_png/bar26.png Graphic file (type png)
 
 <use ./ani_png/bar26.png>
 Package pdftex.def Info: ./ani_png/bar26.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar26.png>
 <./ani_png/bar27.png, id=274, 1589.94pt x 939.51pt>
 File: ./ani_png/bar27.png Graphic file (type png)
  <use ./ani_png/bar27.png>
 Package pdftex.def Info: ./ani_png/bar27.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar27.png> <./ani_png/bar28.png, id=282, 1589.94pt x 939.51pt>
 File: ./ani_png/bar28.png Graphic file (type png)
 
 <use ./ani_png/bar28.png>
 Package pdftex.def Info: ./ani_png/bar28.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar28.png>
 <./ani_png/bar29.png, id=290, 1589.94pt x 939.51pt>
 File: ./ani_png/bar29.png Graphic file (type png)
  <use ./ani_png/bar29.png>
 Package pdftex.def Info: ./ani_png/bar29.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar29.png> <./ani_png/bar30.png, id=298, 1589.94pt x 939.51pt>
 File: ./ani_png/bar30.png Graphic file (type png)
 
 <use ./ani_png/bar30.png>
 Package pdftex.def Info: ./ani_png/bar30.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar30.png>
 <./ani_png/bar31.png, id=306, 1589.94pt x 939.51pt>
 File: ./ani_png/bar31.png Graphic file (type png)
  <use ./ani_png/bar31.png>
 Package pdftex.def Info: ./ani_png/bar31.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar31.png> <./ani_png/bar32.png, id=314, 1589.94pt x 939.51pt>
 File: ./ani_png/bar32.png Graphic file (type png)
 
 <use ./ani_png/bar32.png>
 Package pdftex.def Info: ./ani_png/bar32.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar32.png>
 <./ani_png/bar33.png, id=322, 1589.94pt x 939.51pt>
 File: ./ani_png/bar33.png Graphic file (type png)
  <use ./ani_png/bar33.png>
 Package pdftex.def Info: ./ani_png/bar33.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar33.png> <./ani_png/bar34.png, id=330, 1589.94pt x 939.51pt>
 File: ./ani_png/bar34.png Graphic file (type png)
 
 <use ./ani_png/bar34.png>
 Package pdftex.def Info: ./ani_png/bar34.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar34.png>
 <./ani_png/bar35.png, id=338, 1589.94pt x 939.51pt>
 File: ./ani_png/bar35.png Graphic file (type png)
  <use ./ani_png/bar35.png>
 Package pdftex.def Info: ./ani_png/bar35.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar35.png> <./ani_png/bar36.png, id=346, 1589.94pt x 939.51pt>
 File: ./ani_png/bar36.png Graphic file (type png)
 
 <use ./ani_png/bar36.png>
 Package pdftex.def Info: ./ani_png/bar36.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar36.png>
 <./ani_png/bar37.png, id=354, 1589.94pt x 939.51pt>
 File: ./ani_png/bar37.png Graphic file (type png)
  <use ./ani_png/bar37.png>
 Package pdftex.def Info: ./ani_png/bar37.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar37.png> <./ani_png/bar38.png, id=362, 1589.94pt x 939.51pt>
 File: ./ani_png/bar38.png Graphic file (type png)
 
 <use ./ani_png/bar38.png>
 Package pdftex.def Info: ./ani_png/bar38.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar38.png>
 <./ani_png/bar39.png, id=370, 1589.94pt x 939.51pt>
 File: ./ani_png/bar39.png Graphic file (type png)
  <use ./ani_png/bar39.png>
 Package pdftex.def Info: ./ani_png/bar39.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar39.png> <./ani_png/bar40.png, id=378, 1589.94pt x 939.51pt>
 File: ./ani_png/bar40.png Graphic file (type png)
 
 <use ./ani_png/bar40.png>
 Package pdftex.def Info: ./ani_png/bar40.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar40.png>
 <./ani_png/bar41.png, id=386, 1589.94pt x 939.51pt>
 File: ./ani_png/bar41.png Graphic file (type png)
  <use ./ani_png/bar41.png>
 Package pdftex.def Info: ./ani_png/bar41.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar41.png> <./ani_png/bar42.png, id=394, 1589.94pt x 939.51pt>
 File: ./ani_png/bar42.png Graphic file (type png)
 
 <use ./ani_png/bar42.png>
 Package pdftex.def Info: ./ani_png/bar42.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar42.png>
 <./ani_png/bar43.png, id=402, 1589.94pt x 939.51pt>
 File: ./ani_png/bar43.png Graphic file (type png)
  <use ./ani_png/bar43.png>
 Package pdftex.def Info: ./ani_png/bar43.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar43.png> <./ani_png/bar44.png, id=410, 1589.94pt x 939.51pt>
 File: ./ani_png/bar44.png Graphic file (type png)
 
 <use ./ani_png/bar44.png>
 Package pdftex.def Info: ./ani_png/bar44.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar44.png>
 <./ani_png/bar45.png, id=418, 1589.94pt x 939.51pt>
 File: ./ani_png/bar45.png Graphic file (type png)
  <use ./ani_png/bar45.png>
 Package pdftex.def Info: ./ani_png/bar45.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar45.png> <./ani_png/bar46.png, id=426, 1589.94pt x 939.51pt>
 File: ./ani_png/bar46.png Graphic file (type png)
 
 <use ./ani_png/bar46.png>
 Package pdftex.def Info: ./ani_png/bar46.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar46.png>
 <./ani_png/bar47.png, id=434, 1589.94pt x 939.51pt>
 File: ./ani_png/bar47.png Graphic file (type png)
  <use ./ani_png/bar47.png>
 Package pdftex.def Info: ./ani_png/bar47.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar47.png> <./ani_png/bar48.png, id=442, 1589.94pt x 939.51pt>
 File: ./ani_png/bar48.png Graphic file (type png)
 
 <use ./ani_png/bar48.png>
 Package pdftex.def Info: ./ani_png/bar48.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar48.png>
 <./ani_png/bar49.png, id=450, 1589.94pt x 939.51pt>
 File: ./ani_png/bar49.png Graphic file (type png)
  <use ./ani_png/bar49.png>
 Package pdftex.def Info: ./ani_png/bar49.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar49.png> <./ani_png/bar50.png, id=458, 1589.94pt x 939.51pt>
 File: ./ani_png/bar50.png Graphic file (type png)
 
 <use ./ani_png/bar50.png>
 Package pdftex.def Info: ./ani_png/bar50.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar50.png>
 <./ani_png/bar51.png, id=466, 1589.94pt x 939.51pt>
 File: ./ani_png/bar51.png Graphic file (type png)
  <use ./ani_png/bar51.png>
 Package pdftex.def Info: ./ani_png/bar51.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar51.png> <./ani_png/bar52.png, id=474, 1589.94pt x 939.51pt>
 File: ./ani_png/bar52.png Graphic file (type png)
 
 <use ./ani_png/bar52.png>
 Package pdftex.def Info: ./ani_png/bar52.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar52.png>
 <./ani_png/bar53.png, id=482, 1589.94pt x 939.51pt>
 File: ./ani_png/bar53.png Graphic file (type png)
  <use ./ani_png/bar53.png>
 Package pdftex.def Info: ./ani_png/bar53.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar53.png> <./ani_png/bar54.png, id=490, 1589.94pt x 939.51pt>
 File: ./ani_png/bar54.png Graphic file (type png)
 
 <use ./ani_png/bar54.png>
 Package pdftex.def Info: ./ani_png/bar54.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar54.png>
 <./ani_png/bar55.png, id=498, 1589.94pt x 939.51pt>
 File: ./ani_png/bar55.png Graphic file (type png)
  <use ./ani_png/bar55.png>
 Package pdftex.def Info: ./ani_png/bar55.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar55.png> <./ani_png/bar56.png, id=506, 1589.94pt x 939.51pt>
 File: ./ani_png/bar56.png Graphic file (type png)
 
 <use ./ani_png/bar56.png>
 Package pdftex.def Info: ./ani_png/bar56.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar56.png>
 <./ani_png/bar57.png, id=514, 1589.94pt x 939.51pt>
 File: ./ani_png/bar57.png Graphic file (type png)
  <use ./ani_png/bar57.png>
 Package pdftex.def Info: ./ani_png/bar57.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar57.png> <./ani_png/bar58.png, id=522, 1589.94pt x 939.51pt>
 File: ./ani_png/bar58.png Graphic file (type png)
 
 <use ./ani_png/bar58.png>
 Package pdftex.def Info: ./ani_png/bar58.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar58.png>
 <./ani_png/bar59.png, id=530, 1589.94pt x 939.51pt>
 File: ./ani_png/bar59.png Graphic file (type png)
  <use ./ani_png/bar59.png>
 Package pdftex.def Info: ./ani_png/bar59.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar59.png> <./ani_png/bar60.png, id=539, 1589.94pt x 939.51pt>
 File: ./ani_png/bar60.png Graphic file (type png)
 
 <use ./ani_png/bar60.png>
 Package pdftex.def Info: ./ani_png/bar60.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar60.png>
 <./ani_png/bar61.png, id=547, 1589.94pt x 939.51pt>
 File: ./ani_png/bar61.png Graphic file (type png)
  <use ./ani_png/bar61.png>
 Package pdftex.def Info: ./ani_png/bar61.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar61.png> <./ani_png/bar62.png, id=555, 1589.94pt x 939.51pt>
 File: ./ani_png/bar62.png Graphic file (type png)
 
 <use ./ani_png/bar62.png>
 Package pdftex.def Info: ./ani_png/bar62.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar62.png>
 <./ani_png/bar63.png, id=563, 1589.94pt x 939.51pt>
 File: ./ani_png/bar63.png Graphic file (type png)
  <use ./ani_png/bar63.png>
 Package pdftex.def Info: ./ani_png/bar63.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar63.png> <./ani_png/bar64.png, id=571, 1589.94pt x 939.51pt>
 File: ./ani_png/bar64.png Graphic file (type png)
 
 <use ./ani_png/bar64.png>
 Package pdftex.def Info: ./ani_png/bar64.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar64.png>
 <./ani_png/bar65.png, id=579, 1589.94pt x 939.51pt>
 File: ./ani_png/bar65.png Graphic file (type png)
  <use ./ani_png/bar65.png>
 Package pdftex.def Info: ./ani_png/bar65.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar65.png> <./ani_png/bar66.png, id=587, 1589.94pt x 939.51pt>
 File: ./ani_png/bar66.png Graphic file (type png)
 
 <use ./ani_png/bar66.png>
 Package pdftex.def Info: ./ani_png/bar66.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar66.png>
 <./ani_png/bar67.png, id=595, 1589.94pt x 939.51pt>
 File: ./ani_png/bar67.png Graphic file (type png)
  <use ./ani_png/bar67.png>
 Package pdftex.def Info: ./ani_png/bar67.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar67.png> <./ani_png/bar68.png, id=603, 1589.94pt x 939.51pt>
 File: ./ani_png/bar68.png Graphic file (type png)
 
 <use ./ani_png/bar68.png>
 Package pdftex.def Info: ./ani_png/bar68.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar68.png>
 <./ani_png/bar69.png, id=611, 1589.94pt x 939.51pt>
 File: ./ani_png/bar69.png Graphic file (type png)
  <use ./ani_png/bar69.png>
 Package pdftex.def Info: ./ani_png/bar69.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar69.png> <./ani_png/bar70.png, id=619, 1589.94pt x 939.51pt>
 File: ./ani_png/bar70.png Graphic file (type png)
 
 <use ./ani_png/bar70.png>
 Package pdftex.def Info: ./ani_png/bar70.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar70.png>
 <./ani_png/bar71.png, id=627, 1589.94pt x 939.51pt>
 File: ./ani_png/bar71.png Graphic file (type png)
  <use ./ani_png/bar71.png>
 Package pdftex.def Info: ./ani_png/bar71.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar71.png> <./ani_png/bar72.png, id=635, 1589.94pt x 939.51pt>
 File: ./ani_png/bar72.png Graphic file (type png)
 
 <use ./ani_png/bar72.png>
 Package pdftex.def Info: ./ani_png/bar72.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar72.png>
 <./ani_png/bar73.png, id=643, 1589.94pt x 939.51pt>
 File: ./ani_png/bar73.png Graphic file (type png)
  <use ./ani_png/bar73.png>
 Package pdftex.def Info: ./ani_png/bar73.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar73.png> <./ani_png/bar74.png, id=651, 1589.94pt x 939.51pt>
 File: ./ani_png/bar74.png Graphic file (type png)
 
 <use ./ani_png/bar74.png>
 Package pdftex.def Info: ./ani_png/bar74.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar74.png>
 <./ani_png/bar75.png, id=659, 1589.94pt x 939.51pt>
 File: ./ani_png/bar75.png Graphic file (type png)
  <use ./ani_png/bar75.png>
 Package pdftex.def Info: ./ani_png/bar75.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar75.png> <./ani_png/bar76.png, id=667, 1589.94pt x 939.51pt>
 File: ./ani_png/bar76.png Graphic file (type png)
 
 <use ./ani_png/bar76.png>
 Package pdftex.def Info: ./ani_png/bar76.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar76.png>
 <./ani_png/bar77.png, id=675, 1589.94pt x 939.51pt>
 File: ./ani_png/bar77.png Graphic file (type png)
  <use ./ani_png/bar77.png>
 Package pdftex.def Info: ./ani_png/bar77.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar77.png> <./ani_png/bar78.png, id=683, 1589.94pt x 939.51pt>
 File: ./ani_png/bar78.png Graphic file (type png)
 
 <use ./ani_png/bar78.png>
 Package pdftex.def Info: ./ani_png/bar78.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar78.png>
 <./ani_png/bar79.png, id=691, 1589.94pt x 939.51pt>
 File: ./ani_png/bar79.png Graphic file (type png)
  <use ./ani_png/bar79.png>
 Package pdftex.def Info: ./ani_png/bar79.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar79.png> <./ani_png/bar80.png, id=699, 1589.94pt x 939.51pt>
 File: ./ani_png/bar80.png Graphic file (type png)
 
 <use ./ani_png/bar80.png>
 Package pdftex.def Info: ./ani_png/bar80.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar80.png>
 <./ani_png/bar81.png, id=707, 1589.94pt x 939.51pt>
 File: ./ani_png/bar81.png Graphic file (type png)
  <use ./ani_png/bar81.png>
 Package pdftex.def Info: ./ani_png/bar81.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar81.png> <./ani_png/bar82.png, id=715, 1589.94pt x 939.51pt>
 File: ./ani_png/bar82.png Graphic file (type png)
 
 <use ./ani_png/bar82.png>
 Package pdftex.def Info: ./ani_png/bar82.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar82.png>
 <./ani_png/bar83.png, id=723, 1589.94pt x 939.51pt>
 File: ./ani_png/bar83.png Graphic file (type png)
  <use ./ani_png/bar83.png>
 Package pdftex.def Info: ./ani_png/bar83.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar83.png> <./ani_png/bar84.png, id=731, 1589.94pt x 939.51pt>
 File: ./ani_png/bar84.png Graphic file (type png)
 
 <use ./ani_png/bar84.png>
 Package pdftex.def Info: ./ani_png/bar84.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar84.png>
 <./ani_png/bar85.png, id=739, 1589.94pt x 939.51pt>
 File: ./ani_png/bar85.png Graphic file (type png)
  <use ./ani_png/bar85.png>
 Package pdftex.def Info: ./ani_png/bar85.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar85.png> <./ani_png/bar86.png, id=747, 1589.94pt x 939.51pt>
 File: ./ani_png/bar86.png Graphic file (type png)
 
 <use ./ani_png/bar86.png>
 Package pdftex.def Info: ./ani_png/bar86.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar86.png>
 <./ani_png/bar87.png, id=755, 1589.94pt x 939.51pt>
 File: ./ani_png/bar87.png Graphic file (type png)
  <use ./ani_png/bar87.png>
 Package pdftex.def Info: ./ani_png/bar87.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar87.png> <./ani_png/bar88.png, id=763, 1589.94pt x 939.51pt>
 File: ./ani_png/bar88.png Graphic file (type png)
 
 <use ./ani_png/bar88.png>
 Package pdftex.def Info: ./ani_png/bar88.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar88.png>
 <./ani_png/bar89.png, id=771, 1589.94pt x 939.51pt>
 File: ./ani_png/bar89.png Graphic file (type png)
  <use ./ani_png/bar89.png>
 Package pdftex.def Info: ./ani_png/bar89.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar89.png> <./ani_png/bar90.png, id=779, 1589.94pt x 939.51pt>
 File: ./ani_png/bar90.png Graphic file (type png)
 
 <use ./ani_png/bar90.png>
 Package pdftex.def Info: ./ani_png/bar90.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar90.png>
 <./ani_png/bar91.png, id=787, 1589.94pt x 939.51pt>
 File: ./ani_png/bar91.png Graphic file (type png)
  <use ./ani_png/bar91.png>
 Package pdftex.def Info: ./ani_png/bar91.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar91.png> <./ani_png/bar92.png, id=795, 1589.94pt x 939.51pt>
 File: ./ani_png/bar92.png Graphic file (type png)
 
 <use ./ani_png/bar92.png>
 Package pdftex.def Info: ./ani_png/bar92.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar92.png>
 <./ani_png/bar93.png, id=803, 1589.94pt x 939.51pt>
 File: ./ani_png/bar93.png Graphic file (type png)
  <use ./ani_png/bar93.png>
 Package pdftex.def Info: ./ani_png/bar93.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar93.png> <./ani_png/bar94.png, id=812, 1589.94pt x 939.51pt>
 File: ./ani_png/bar94.png Graphic file (type png)
 
 <use ./ani_png/bar94.png>
 Package pdftex.def Info: ./ani_png/bar94.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar94.png>
 <./ani_png/bar95.png, id=820, 1589.94pt x 939.51pt>
 File: ./ani_png/bar95.png Graphic file (type png)
  <use ./ani_png/bar95.png>
 Package pdftex.def Info: ./ani_png/bar95.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar95.png> <./ani_png/bar96.png, id=828, 1589.94pt x 939.51pt>
 File: ./ani_png/bar96.png Graphic file (type png)
 
 <use ./ani_png/bar96.png>
 Package pdftex.def Info: ./ani_png/bar96.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar96.png>
 <./ani_png/bar97.png, id=836, 1589.94pt x 939.51pt>
 File: ./ani_png/bar97.png Graphic file (type png)
  <use ./ani_png/bar97.png>
 Package pdftex.def Info: ./ani_png/bar97.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar97.png> <./ani_png/bar98.png, id=844, 1589.94pt x 939.51pt>
 File: ./ani_png/bar98.png Graphic file (type png)
 
 <use ./ani_png/bar98.png>
 Package pdftex.def Info: ./ani_png/bar98.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar98.png>
 <./ani_png/bar99.png, id=852, 1589.94pt x 939.51pt>
 File: ./ani_png/bar99.png Graphic file (type png)
  <use ./ani_png/bar99.png>
 Package pdftex.def Info: ./ani_png/bar99.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar99.png> <./ani_png/bar100.png, id=860, 1589.94pt x 939.51pt>
 File: ./ani_png/bar100.png Graphic file (type png)
 
 <use ./ani_png/bar100.png>
 Package pdftex.def Info: ./ani_png/bar100.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar100.png>
 <./ani_png/bar101.png, id=868, 1589.94pt x 939.51pt>
 File: ./ani_png/bar101.png Graphic file (type png)
 
 <use ./ani_png/bar101.png>
 Package pdftex.def Info: ./ani_png/bar101.png used on input line 160.
-(pdftex.def)             Requested size: 1218.54863pt x 753.81398pt.
+(pdftex.def)             Requested size: 1218.54863pt x 755.82147pt.
  <./ani_png/bar101.png>
-Overfull \vbox (4.50114pt too high) detected at line 160
+Overfull \vbox (5.10114pt too high) detected at line 160
  []
 
 Package keyval Info: width undefined on input line 160.
@@ -2726,16 +2726,13 @@ Package rerunfilecheck Info: File `pico.out' has not changed.
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 3.5pt have occurred.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 404.
  ) 
 Here is how much of TeX's memory you used:
- 28993 strings out of 493029
- 590451 string characters out of 6136234
+ 28992 strings out of 493029
+ 590449 string characters out of 6136234
  639281 words of memory out of 5000000
- 31874 multiletter control sequences out of 15000+600000
+ 31873 multiletter control sequences out of 15000+600000
  16702 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,20n,63p,10373b,779s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2749,7 +2746,7 @@ onts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts
 /public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmtt8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
 ts/symbols/msam10.pfb>
-Output written on pico.pdf (15 pages, 6157659 bytes).
+Output written on pico.pdf (15 pages, 6157671 bytes).
 PDF statistics:
  1188 PDF objects out of 1200 (max. 8388607)
  582 compressed objects within 6 object streams
